@@ -1,0 +1,33 @@
+{
+  "label": [
+    { "label": "Building", "score": 0.9405, "translate": "건물" },
+    { "label": "Plant", "score": 0.8741, "translate": "식물" },
+    { "label": "House", "score": 0.8181, "translate": "집" },
+    { "label": "Tree", "score": 0.788, "translate": "나무" },
+    { "label": "Event", "score": 0.7249, "translate": "이벤트" },
+    { "label": "City", "score": 0.7237, "translate": "도시" },
+    { "label": "Asphalt", "score": 0.6676, "translate": "아스팔트" },
+    { "label": "Fun", "score": 0.6615, "translate": "재미있는" },
+    { "label": "Pedestrian", "score": 0.6545, "translate": "보행자" },
+    { "label": "Facade", "score": 0.6502, "translate": "정면" },
+    { "label": "Travel", "score": 0.6479, "translate": "여행하다" },
+    { "label": "Road", "score": 0.6422, "translate": "도로" },
+    { "label": "Crowd", "score": 0.6142, "translate": "군중" },
+    { "label": "Street", "score": 0.6023, "translate": "거리" },
+    { "label": "Flooring", "score": 0.535, "translate": "바닥" },
+    { "label": "Public event", "score": 0.5089, "translate": "공개 이벤트" }
+  ],
+  "object": [
+    {
+      "name": "Animal",
+      "score": 0.5977,
+      "bbox": [
+        [0.6859, 0.554],
+        [0.8611, 0.554],
+        [0.8611, 0.9358],
+        [0.6859, 0.9358]
+      ],
+      "translate": "동물"
+    }
+  ]
+}

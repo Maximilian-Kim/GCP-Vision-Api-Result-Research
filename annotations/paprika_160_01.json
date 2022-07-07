@@ -1,0 +1,146 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.9872, "translate": "음식" },
+    { "label": "Green bell pepper", "score": 0.9533, "translate": "녹색 피망" },
+    { "label": "Plant", "score": 0.9511, "translate": "식물" },
+    { "label": "Rangpur", "score": 0.9214, "translate": "랑푸르" },
+    { "label": "Ingredient", "score": 0.9047, "translate": "재료" },
+    { "label": "Bell pepper", "score": 0.9006, "translate": "피망" },
+    { "label": "Natural foods", "score": 0.8955, "translate": "자연 식품" },
+    { "label": "Recipe", "score": 0.878, "translate": "레시피" },
+    { "label": "Fruit", "score": 0.865, "translate": "과일" },
+    { "label": "Leaf vegetable", "score": 0.8387, "translate": "잎채소" },
+    { "label": "Food group", "score": 0.8228, "translate": "식품군" },
+    { "label": "Cuisine", "score": 0.8109, "translate": "요리" },
+    { "label": "Produce", "score": 0.8036, "translate": "생산하다" },
+    { "label": "Whole food", "score": 0.8008, "translate": "전체 식품" },
+    { "label": "Sharing", "score": 0.8002, "translate": "나누는" },
+    { "label": "Bush tomato", "score": 0.7883, "translate": "부시 토마토" },
+    { "label": "Cherry Tomatoes", "score": 0.7862, "translate": "방울 토마토" },
+    { "label": "Vegetable", "score": 0.7797, "translate": "채소" },
+    { "label": "Superfood", "score": 0.773, "translate": "슈퍼푸드" },
+    { "label": "Sweet lemon", "score": 0.7718, "translate": "달콤한 레몬" },
+    { "label": "Red bell pepper", "score": 0.7709, "translate": "빨간 피망" },
+    { "label": "Garnish", "score": 0.7592, "translate": "고명" },
+    { "label": "Dish", "score": 0.7567, "translate": "접시" },
+    { "label": "Capsicum", "score": 0.7564, "translate": "고추" },
+    { "label": "Pimiento", "score": 0.7526, "translate": "피미엔토" },
+    { "label": "Citrus", "score": 0.7294, "translate": "감귤류" },
+    { "label": "Flowering plant", "score": 0.721, "translate": "꽃 피는 식물" },
+    { "label": "Local food", "score": 0.7186, "translate": "현지 음식" },
+    { "label": "Citric acid", "score": 0.7179, "translate": "구연산" },
+    { "label": "Tangelo", "score": 0.7102, "translate": "탄젤로" },
+    { "label": "Meyer lemon", "score": 0.7011, "translate": "마이어 레몬" },
+    {
+      "label": "Valencia orange",
+      "score": 0.6865,
+      "translate": "발렌시아 오렌지"
+    },
+    { "label": "Vegan nutrition", "score": 0.6857, "translate": "비건 영양" },
+    { "label": "Comfort food", "score": 0.6848, "translate": "컴포트 푸드" },
+    {
+      "label": "Bell peppers and chili peppers",
+      "score": 0.6847,
+      "translate": "피망과 칠리 고추"
+    },
+    {
+      "label": "Mandarin orange",
+      "score": 0.6683,
+      "translate": "만다린 오렌지"
+    },
+    { "label": "Clementine", "score": 0.6588, "translate": "클레멘타인" },
+    { "label": "Lemon", "score": 0.6491, "translate": "레몬" },
+    { "label": "Plum tomato", "score": 0.6399, "translate": "매실 토마토" },
+    { "label": "Still life", "score": 0.6231, "translate": "정물" },
+    {
+      "label": "Cruciferous vegetables",
+      "score": 0.6094,
+      "translate": "십자화과 야채"
+    },
+    {
+      "label": "Nightshade family",
+      "score": 0.6087,
+      "translate": "밤나무 가족"
+    },
+    { "label": "Tomato", "score": 0.6046, "translate": "토마토" },
+    { "label": "Tableware", "score": 0.6042, "translate": "식기" },
+    { "label": "Ugli fruit", "score": 0.6006, "translate": "우글리 과일" },
+    { "label": "Orange", "score": 0.5995, "translate": "주황색" },
+    { "label": "Key lime", "score": 0.5578, "translate": "키 라임" },
+    { "label": "Herb", "score": 0.5484, "translate": "목초" },
+    { "label": "Delicacy", "score": 0.5382, "translate": "섬세" },
+    {
+      "label": "Still life photography",
+      "score": 0.5221,
+      "translate": "정물 사진"
+    }
+  ],
+  "object": [
+    {
+      "name": "Bell pepper",
+      "score": 0.8878,
+      "bbox": [
+        [0.3719, 0.398],
+        [0.7125, 0.398],
+        [0.7125, 0.8816],
+        [0.3719, 0.8816]
+      ],
+      "translate": "피망"
+    },
+    {
+      "name": "Bell pepper",
+      "score": 0.8531,
+      "bbox": [
+        [0.5763, 0.1562],
+        [0.8963, 0.1562],
+        [0.8963, 0.6176],
+        [0.5763, 0.6176]
+      ],
+      "translate": "피망"
+    },
+    {
+      "name": "Orange",
+      "score": 0.7602,
+      "bbox": [
+        [0.049, 0.2553],
+        [0.3772, 0.2553],
+        [0.3772, 0.691],
+        [0.049, 0.691]
+      ],
+      "translate": "주황색"
+    },
+    {
+      "name": "Orange",
+      "score": 0.6935,
+      "bbox": [
+        [0.7087, 0.0287],
+        [0.9941, 0.0287],
+        [0.9941, 0.3541],
+        [0.7087, 0.3541]
+      ],
+      "translate": "주황색"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.6426,
+      "bbox": [
+        [0.7044, 0.0256],
+        [0.9967, 0.0256],
+        [0.9967, 0.3607],
+        [0.7044, 0.3607]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Bell pepper",
+      "score": 0.61,
+      "bbox": [
+        [0.3778, 0.127],
+        [0.631, 0.127],
+        [0.631, 0.4591],
+        [0.3778, 0.4591]
+      ],
+      "translate": "피망"
+    }
+  ]
+}

@@ -1,0 +1,108 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.9864, "translate": "음식" },
+    { "label": "Plant", "score": 0.9431, "translate": "식물" },
+    { "label": "Tableware", "score": 0.9421, "translate": "식기" },
+    { "label": "Fruit", "score": 0.9247, "translate": "과일" },
+    { "label": "Strawberry", "score": 0.9163, "translate": "딸기" },
+    { "label": "Ingredient", "score": 0.9023, "translate": "재료" },
+    { "label": "Natural foods", "score": 0.8873, "translate": "자연 식품" },
+    { "label": "Staple food", "score": 0.8792, "translate": "상식" },
+    { "label": "Recipe", "score": 0.879, "translate": "레시피" },
+    { "label": "Strawberries", "score": 0.8576, "translate": "딸기" },
+    { "label": "Fruit salad", "score": 0.852, "translate": "과일 샐러드" },
+    { "label": "Cuisine", "score": 0.8321, "translate": "요리" },
+    { "label": "Seedless fruit", "score": 0.8224, "translate": "씨 없는 과일" },
+    { "label": "Berry", "score": 0.8134, "translate": "말린 씨앗" },
+    { "label": "Dish", "score": 0.8109, "translate": "접시" },
+    { "label": "Superfood", "score": 0.8006, "translate": "슈퍼푸드" },
+    { "label": "Salad", "score": 0.7907, "translate": "샐러드" },
+    { "label": "Produce", "score": 0.7781, "translate": "생산하다" },
+    { "label": "Whole food", "score": 0.77, "translate": "전체 식품" },
+    { "label": "Sweetness", "score": 0.763, "translate": "단맛" },
+    { "label": "Local food", "score": 0.7547, "translate": "현지 음식" },
+    { "label": "Food group", "score": 0.7496, "translate": "식품군" },
+    { "label": "Vegetable", "score": 0.7394, "translate": "채소" },
+    {
+      "label": "Frutti di bosco",
+      "score": 0.7314,
+      "translate": "프루티 디 보스코"
+    },
+    {
+      "label": "Accessory fruit",
+      "score": 0.7302,
+      "translate": "액세서리 과일"
+    },
+    {
+      "label": "Virginia strawberry",
+      "score": 0.7251,
+      "translate": "버지니아 딸기"
+    },
+    { "label": "Dishware", "score": 0.7108, "translate": "식기" },
+    { "label": "Bowl", "score": 0.69, "translate": "그릇" },
+    { "label": "Vegan nutrition", "score": 0.6818, "translate": "비건 영양" },
+    { "label": "Garnish", "score": 0.6746, "translate": "고명" },
+    { "label": "pear", "score": 0.6674, "translate": "배" },
+    { "label": "Superfruit", "score": 0.6635, "translate": "슈퍼프루트" },
+    { "label": "Drink", "score": 0.644, "translate": "마시다" },
+    { "label": "Plate", "score": 0.6419, "translate": "그릇" },
+    { "label": "Leaf vegetable", "score": 0.6263, "translate": "잎채소" },
+    { "label": "Fruit cup", "score": 0.6112, "translate": "과일 컵" },
+    { "label": "Basket", "score": 0.6064, "translate": "바구니" },
+    { "label": "Grape", "score": 0.6063, "translate": "포도" },
+    { "label": "Meal", "score": 0.5997, "translate": "식사" },
+    { "label": "Lunch", "score": 0.5797, "translate": "점심" },
+    { "label": "Apple", "score": 0.5714, "translate": "사과" },
+    { "label": "Malus", "score": 0.5527, "translate": "말루스" },
+    {
+      "label": "Still life photography",
+      "score": 0.5512,
+      "translate": "정물 사진"
+    },
+    { "label": "Breakfast", "score": 0.5483, "translate": "아침" },
+    { "label": "Serveware", "score": 0.5268, "translate": "서브웨어" },
+    { "label": "Platter", "score": 0.5229, "translate": "플래터" },
+    {
+      "label": "Vegetarian food",
+      "score": 0.5163,
+      "translate": "채식주의 자 음식"
+    },
+    { "label": "Common fig", "score": 0.513, "translate": "일반 무화과" },
+    { "label": "Fig", "score": 0.5086, "translate": "무화과" }
+  ],
+  "object": [
+    {
+      "name": "Bowl",
+      "score": 0.7356,
+      "bbox": [
+        [0.5076, 0.0304],
+        [0.9471, 0.0304],
+        [0.9471, 0.7991],
+        [0.5076, 0.7991]
+      ],
+      "translate": "그릇"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.7044,
+      "bbox": [
+        [0.0385, 0.0181],
+        [0.4804, 0.0181],
+        [0.4804, 0.8456],
+        [0.0385, 0.8456]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Strawberry",
+      "score": 0.6401,
+      "bbox": [
+        [0.1713, 0.356],
+        [0.2953, 0.356],
+        [0.2953, 0.5605],
+        [0.1713, 0.5605]
+      ],
+      "translate": "딸기"
+    }
+  ]
+}

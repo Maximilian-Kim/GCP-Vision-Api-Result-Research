@@ -1,0 +1,94 @@
+{
+  "label": [
+    { "label": "Tableware", "score": 0.9575, "translate": "식기" },
+    { "label": "Plant", "score": 0.951, "translate": "식물" },
+    { "label": "Flower", "score": 0.8758, "translate": "꽃" },
+    { "label": "Drinkware", "score": 0.8739, "translate": "음료 용기" },
+    { "label": "Tree", "score": 0.8421, "translate": "나무" },
+    { "label": "Wine glass", "score": 0.827, "translate": "와인 잔" },
+    { "label": "Grass", "score": 0.8235, "translate": "잔디" },
+    { "label": "Wood", "score": 0.8208, "translate": "목재" },
+    { "label": "Building", "score": 0.8163, "translate": "건물" },
+    { "label": "Wine", "score": 0.7853, "translate": "와인" },
+    { "label": "Window", "score": 0.7852, "translate": "창문" },
+    { "label": "Glass bottle", "score": 0.7684, "translate": "유리 병" },
+    { "label": "Glass", "score": 0.7673, "translate": "유리" },
+    { "label": "Art", "score": 0.7536, "translate": "미술" },
+    { "label": "Natural foods", "score": 0.7404, "translate": "자연 식품" },
+    { "label": "Fruit", "score": 0.7383, "translate": "과일" },
+    { "label": "Table", "score": 0.728, "translate": "테이블" },
+    { "label": "Grape", "score": 0.7259, "translate": "포도" },
+    { "label": "Vase", "score": 0.7186, "translate": "꽃병" },
+    { "label": "Event", "score": 0.7106, "translate": "이벤트" },
+    { "label": "Hardwood", "score": 0.7089, "translate": "견목" },
+    { "label": "Flooring", "score": 0.7021, "translate": "바닥" },
+    { "label": "Stemware", "score": 0.696, "translate": "스템웨어" },
+    { "label": "House", "score": 0.6904, "translate": "집" },
+    { "label": "Drink", "score": 0.6765, "translate": "마시다" },
+    { "label": "Wine bottle", "score": 0.652, "translate": "와인 병" },
+    { "label": "Metal", "score": 0.6432, "translate": "금속" },
+    { "label": "Wood stain", "score": 0.6428, "translate": "나무 얼룩" },
+    { "label": "Superfood", "score": 0.6393, "translate": "슈퍼푸드" },
+    { "label": "Soil", "score": 0.6298, "translate": "토양" },
+    {
+      "label": "Still life photography",
+      "score": 0.591,
+      "translate": "정물 사진"
+    },
+    { "label": "Herb", "score": 0.5801, "translate": "목초" },
+    { "label": "Champagne stemware", "score": 0.579, "translate": "샴페인 잔" },
+    { "label": "Distilled beverage", "score": 0.5676, "translate": "증류수" },
+    { "label": "Landscape", "score": 0.5637, "translate": "풍경" },
+    { "label": "Floral design", "score": 0.5624, "translate": "플로랄 디자인" },
+    {
+      "label": "Grapevine family",
+      "score": 0.5562,
+      "translate": "그레이프바인 가족"
+    },
+    { "label": "Still life", "score": 0.5435, "translate": "정물" },
+    { "label": "Vegetable", "score": 0.537, "translate": "채소" },
+    { "label": "Vitis", "score": 0.5329, "translate": "비티스" },
+    { "label": "Ingredient", "score": 0.5289, "translate": "재료" },
+    {
+      "label": "Flowering plant",
+      "score": 0.5167,
+      "translate": "꽃 피는 식물"
+    },
+    { "label": "Floristry", "score": 0.5138, "translate": "플로리스트리" }
+  ],
+  "object": [
+    {
+      "name": "Wine glass",
+      "score": 0.7166,
+      "bbox": [
+        [0.3902, 0.1583],
+        [0.6274, 0.1583],
+        [0.6274, 0.9819],
+        [0.3902, 0.9819]
+      ],
+      "translate": "와인 잔"
+    },
+    {
+      "name": "Food",
+      "score": 0.6323,
+      "bbox": [
+        [0.1107, 0.2835],
+        [0.4494, 0.2835],
+        [0.4494, 0.7627],
+        [0.1107, 0.7627]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Container",
+      "score": 0.5969,
+      "bbox": [
+        [0.6068, 0.0035],
+        [0.9934, 0.0035],
+        [0.9934, 0.4803],
+        [0.6068, 0.4803]
+      ],
+      "translate": "컨테이너"
+    }
+  ]
+}

@@ -1,0 +1,265 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.9873, "translate": "음식" },
+    { "label": "Fruit", "score": 0.9316, "translate": "과일" },
+    { "label": "Plant", "score": 0.9277, "translate": "식물" },
+    { "label": "Tableware", "score": 0.9266, "translate": "식기" },
+    { "label": "Ingredient", "score": 0.9126, "translate": "재료" },
+    { "label": "Natural foods", "score": 0.899, "translate": "자연 식품" },
+    { "label": "Recipe", "score": 0.8797, "translate": "레시피" },
+    { "label": "Strawberry", "score": 0.8738, "translate": "딸기" },
+    { "label": "Staple food", "score": 0.8657, "translate": "상식" },
+    { "label": "Cuisine", "score": 0.8576, "translate": "요리" },
+    { "label": "Fruit salad", "score": 0.8425, "translate": "과일 샐러드" },
+    { "label": "Seedless fruit", "score": 0.8424, "translate": "씨 없는 과일" },
+    { "label": "Dish", "score": 0.8366, "translate": "접시" },
+    { "label": "Food group", "score": 0.8257, "translate": "식품군" },
+    { "label": "Strawberries", "score": 0.8143, "translate": "딸기" },
+    { "label": "pear", "score": 0.8078, "translate": "배" },
+    { "label": "Superfood", "score": 0.801, "translate": "슈퍼푸드" },
+    { "label": "Produce", "score": 0.7989, "translate": "생산하다" },
+    { "label": "Whole food", "score": 0.7934, "translate": "전체 식품" },
+    { "label": "Berry", "score": 0.7928, "translate": "말린 씨앗" },
+    { "label": "Dishware", "score": 0.7654, "translate": "식기" },
+    { "label": "Local food", "score": 0.7636, "translate": "현지 음식" },
+    { "label": "Sweetness", "score": 0.7527, "translate": "단맛" },
+    { "label": "Bowl", "score": 0.7497, "translate": "그릇" },
+    {
+      "label": "Accessory fruit",
+      "score": 0.735,
+      "translate": "액세서리 과일"
+    },
+    {
+      "label": "Virginia strawberry",
+      "score": 0.7064,
+      "translate": "버지니아 딸기"
+    },
+    { "label": "Garnish", "score": 0.6955, "translate": "고명" },
+    { "label": "Vegan nutrition", "score": 0.6943, "translate": "비건 영양" },
+    { "label": "Vegetable", "score": 0.6859, "translate": "채소" },
+    { "label": "Plate", "score": 0.6785, "translate": "그릇" },
+    { "label": "Superfruit", "score": 0.6556, "translate": "슈퍼프루트" },
+    { "label": "Salad", "score": 0.6496, "translate": "샐러드" },
+    { "label": "Red bell pepper", "score": 0.6402, "translate": "빨간 피망" },
+    {
+      "label": "Frutti di bosco",
+      "score": 0.6387,
+      "translate": "프루티 디 보스코"
+    },
+    {
+      "label": "Costa Rican pitahaya",
+      "score": 0.6299,
+      "translate": "코스타리카 피타하야"
+    },
+    { "label": "Grape", "score": 0.6234, "translate": "포도" },
+    { "label": "Serving tray", "score": 0.6144, "translate": "서빙 트레이" },
+    { "label": "Meal", "score": 0.5747, "translate": "식사" },
+    {
+      "label": "Still life photography",
+      "score": 0.5686,
+      "translate": "정물 사진"
+    },
+    { "label": "Drink", "score": 0.5436, "translate": "마시다" },
+    { "label": "Basket", "score": 0.5304, "translate": "바구니" },
+    { "label": "Kiwifruit", "score": 0.5238, "translate": "키위 과일" },
+    { "label": "Lunch", "score": 0.5225, "translate": "점심" },
+    { "label": "Malus", "score": 0.5221, "translate": "말루스" },
+    { "label": "Still life", "score": 0.5162, "translate": "정물" },
+    {
+      "label": "Vegetarian food",
+      "score": 0.5098,
+      "translate": "채식주의 자 음식"
+    },
+    { "label": "Platter", "score": 0.5034, "translate": "플래터" },
+    { "label": "Melon", "score": 0.5007, "translate": "멜론" }
+  ],
+  "object": [
+    {
+      "name": "Fruit",
+      "score": 0.794,
+      "bbox": [
+        [0.2447, 0.1613],
+        [0.3612, 0.1613],
+        [0.3612, 0.3423],
+        [0.2447, 0.3423]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.7892,
+      "bbox": [
+        [0.171, 0.3556],
+        [0.2931, 0.3556],
+        [0.2931, 0.5559],
+        [0.171, 0.5559]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.7845,
+      "bbox": [
+        [0.3335, 0.5393],
+        [0.4469, 0.5393],
+        [0.4469, 0.7295],
+        [0.3335, 0.7295]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Bowl",
+      "score": 0.758,
+      "bbox": [
+        [0.0297, 0.0286],
+        [0.4951, 0.0286],
+        [0.4951, 0.8479],
+        [0.0297, 0.8479]
+      ],
+      "translate": "그릇"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.7547,
+      "bbox": [
+        [0.5503, 0.2901],
+        [0.6539, 0.2901],
+        [0.6539, 0.4457],
+        [0.5503, 0.4457]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Bowl",
+      "score": 0.7524,
+      "bbox": [
+        [0.4942, 0.0487],
+        [0.9574, 0.0487],
+        [0.9574, 0.8061],
+        [0.4942, 0.8061]
+      ],
+      "translate": "그릇"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.742,
+      "bbox": [
+        [0.6827, 0.3334],
+        [0.7961, 0.3334],
+        [0.7961, 0.5357],
+        [0.6827, 0.5357]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.7374,
+      "bbox": [
+        [0.7511, 0.5785],
+        [0.8667, 0.5785],
+        [0.8667, 0.7444],
+        [0.7511, 0.7444]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.7163,
+      "bbox": [
+        [0.3552, 0.3178],
+        [0.4611, 0.3178],
+        [0.4611, 0.5512],
+        [0.3552, 0.5512]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.7125,
+      "bbox": [
+        [0.589, 0.1494],
+        [0.7172, 0.1494],
+        [0.7172, 0.3283],
+        [0.589, 0.3283]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.682,
+      "bbox": [
+        [0.0577, 0.2417],
+        [0.1746, 0.2417],
+        [0.1746, 0.4609],
+        [0.0577, 0.4609]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Tableware",
+      "score": 0.6585,
+      "bbox": [
+        [0.5066, 0.0321],
+        [0.9507, 0.0321],
+        [0.9507, 0.8013],
+        [0.5066, 0.8013]
+      ],
+      "translate": "식기"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.6535,
+      "bbox": [
+        [0.701, 0.0994],
+        [0.821, 0.0994],
+        [0.821, 0.3203],
+        [0.701, 0.3203]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Strawberry",
+      "score": 0.6517,
+      "bbox": [
+        [0.591, 0.1451],
+        [0.7194, 0.1451],
+        [0.7194, 0.3281],
+        [0.591, 0.3281]
+      ],
+      "translate": "딸기"
+    },
+    {
+      "name": "Food",
+      "score": 0.6146,
+      "bbox": [
+        [0.2452, 0.017],
+        [0.3648, 0.017],
+        [0.3648, 0.2144],
+        [0.2452, 0.2144]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.6091,
+      "bbox": [
+        [0.1989, 0.5832],
+        [0.3147, 0.5832],
+        [0.3147, 0.7513],
+        [0.1989, 0.7513]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Strawberry",
+      "score": 0.5806,
+      "bbox": [
+        [0.6996, 0.0963],
+        [0.8198, 0.0963],
+        [0.8198, 0.3158],
+        [0.6996, 0.3158]
+      ],
+      "translate": "딸기"
+    }
+  ]
+}

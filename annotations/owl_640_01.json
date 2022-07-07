@@ -1,0 +1,57 @@
+{
+  "label": [
+    { "label": "Brown", "score": 0.9805, "translate": "갈색" },
+    { "label": "Bird", "score": 0.9646, "translate": "새" },
+    { "label": "Owl", "score": 0.9021, "translate": "올빼미" },
+    { "label": "Beak", "score": 0.8858, "translate": "부리" },
+    { "label": "Screech owl", "score": 0.8807, "translate": "부엉이 올빼미" },
+    { "label": "Wood", "score": 0.8679, "translate": "목재" },
+    { "label": "Branch", "score": 0.8671, "translate": "나뭇가지" },
+    { "label": "Grey", "score": 0.84, "translate": "회색" },
+    { "label": "Trunk", "score": 0.8215, "translate": "트렁크" },
+    {
+      "label": "Eastern Screech owl",
+      "score": 0.7888,
+      "translate": "동부 부엉이 올빼미"
+    },
+    { "label": "Plant", "score": 0.7871, "translate": "식물" },
+    { "label": "Tree", "score": 0.7845, "translate": "나무" },
+    {
+      "label": "Terrestrial animal",
+      "score": 0.7767,
+      "translate": "육상 동물"
+    },
+    { "label": "Bird of prey", "score": 0.7677, "translate": "맹금" },
+    { "label": "Great horned owl", "score": 0.7538, "translate": "큰부엉이" },
+    { "label": "Formation", "score": 0.7484, "translate": "형성" },
+    { "label": "Twig", "score": 0.736, "translate": "작은 가지" },
+    { "label": "Painting", "score": 0.6726, "translate": "페인트 등" },
+    { "label": "Art", "score": 0.6689, "translate": "미술" },
+    { "label": "Woodland", "score": 0.6135, "translate": "삼림지" },
+    { "label": "Wildlife", "score": 0.6112, "translate": "야생 동물" },
+    { "label": "Soil", "score": 0.5973, "translate": "토양" },
+    { "label": "Visual arts", "score": 0.5785, "translate": "시각 예술" },
+    {
+      "label": "Northern hardwood forest",
+      "score": 0.5555,
+      "translate": "북부 활엽수림"
+    },
+    { "label": "Forest", "score": 0.5483, "translate": "숲" },
+    { "label": "Feather", "score": 0.5408, "translate": "깃털" },
+    { "label": "Natural landscape", "score": 0.5196, "translate": "자연 경관" },
+    { "label": "Rock", "score": 0.5168, "translate": "바위" }
+  ],
+  "object": [
+    {
+      "name": "Owl",
+      "score": 0.9096,
+      "bbox": [
+        [0.2136, 0.1698],
+        [0.4807, 0.1698],
+        [0.4807, 0.9854],
+        [0.2136, 0.9854]
+      ],
+      "translate": "올빼미"
+    }
+  ]
+}

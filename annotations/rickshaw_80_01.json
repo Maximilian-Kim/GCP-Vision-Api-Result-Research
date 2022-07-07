@@ -1,0 +1,71 @@
+{
+  "label": [
+    { "label": "Vehicle", "score": 0.9318, "translate": "차량" },
+    { "label": "Plant", "score": 0.9101, "translate": "식물" },
+    {
+      "label": "Automotive tire",
+      "score": 0.8924,
+      "translate": "자동차 타이어"
+    },
+    { "label": "Building", "score": 0.8835, "translate": "건물" },
+    { "label": "Tire", "score": 0.8397, "translate": "타이어" },
+    { "label": "Asphalt", "score": 0.8145, "translate": "아스팔트" },
+    { "label": "Motor vehicle", "score": 0.7989, "translate": "자동차" },
+    { "label": "Wheel", "score": 0.7771, "translate": "바퀴" },
+    {
+      "label": "Automotive mirror",
+      "score": 0.757,
+      "translate": "자동차 미러"
+    },
+    { "label": "Bumper", "score": 0.7532, "translate": "범퍼" },
+    { "label": "Travel", "score": 0.7377, "translate": "여행하다" },
+    {
+      "label": "Automotive exterior",
+      "score": 0.719,
+      "translate": "자동차 외장"
+    },
+    { "label": "City", "score": 0.6814, "translate": "도시" },
+    { "label": "Road", "score": 0.681, "translate": "도로" },
+    { "label": "Event", "score": 0.6689, "translate": "이벤트" },
+    { "label": "Auto part", "score": 0.6683, "translate": "자동차 부품" },
+    {
+      "label": "Automotive window part",
+      "score": 0.6675,
+      "translate": "자동차 창 부품"
+    },
+    { "label": "Windshield", "score": 0.6649, "translate": "바람막이 유리" },
+    {
+      "label": "Automotive wheel system",
+      "score": 0.6464,
+      "translate": "자동차 휠 시스템"
+    },
+    { "label": "House", "score": 0.6415, "translate": "집" },
+    { "label": "Traffic", "score": 0.6223, "translate": "교통" },
+    { "label": "Road surface", "score": 0.613, "translate": "도로 표면" },
+    { "label": "Military vehicle", "score": 0.5999, "translate": "군용 차량" },
+    { "label": "Street", "score": 0.5952, "translate": "거리" },
+    {
+      "label": "Automotive lighting",
+      "score": 0.5884,
+      "translate": "자동차 조명"
+    },
+    { "label": "Machine", "score": 0.5877, "translate": "기계" },
+    { "label": "Tree", "score": 0.5795, "translate": "나무" },
+    { "label": "Pedestrian", "score": 0.5771, "translate": "보행자" },
+    { "label": "Rear-view mirror", "score": 0.5531, "translate": "백미러" },
+    { "label": "Soil", "score": 0.5522, "translate": "토양" }
+  ],
+  "object": [
+    {
+      "name": "Car",
+      "score": 0.7187,
+      "bbox": [
+        [0.1897, 0.1982],
+        [0.6476, 0.1982],
+        [0.6476, 0.9646],
+        [0.1897, 0.9646]
+      ],
+      "translate": "자동차"
+    }
+  ]
+}

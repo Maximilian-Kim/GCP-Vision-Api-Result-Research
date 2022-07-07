@@ -1,0 +1,125 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.9837, "translate": "음식" },
+    { "label": "Ingredient", "score": 0.9026, "translate": "재료" },
+    { "label": "Plant", "score": 0.8931, "translate": "식물" },
+    { "label": "Recipe", "score": 0.8741, "translate": "레시피" },
+    { "label": "Fruit", "score": 0.8739, "translate": "과일" },
+    { "label": "Tableware", "score": 0.863, "translate": "식기" },
+    { "label": "Natural foods", "score": 0.8519, "translate": "자연 식품" },
+    { "label": "Cuisine", "score": 0.835, "translate": "요리" },
+    { "label": "Dish", "score": 0.8206, "translate": "접시" },
+    { "label": "Superfood", "score": 0.7604, "translate": "슈퍼푸드" },
+    { "label": "Produce", "score": 0.7559, "translate": "생산하다" },
+    { "label": "Seedless fruit", "score": 0.7072, "translate": "씨 없는 과일" },
+    { "label": "Kitchen utensil", "score": 0.6655, "translate": "주방기구" },
+    { "label": "Petal", "score": 0.6639, "translate": "꽃잎" },
+    { "label": "Art", "score": 0.6605, "translate": "미술" },
+    {
+      "label": "Still life photography",
+      "score": 0.6538,
+      "translate": "정물 사진"
+    },
+    { "label": "Serveware", "score": 0.6267, "translate": "서브웨어" },
+    { "label": "Still life", "score": 0.6235, "translate": "정물" },
+    { "label": "Vegan nutrition", "score": 0.6154, "translate": "비건 영양" },
+    { "label": "Herb", "score": 0.5889, "translate": "목초" },
+    { "label": "Vegetable", "score": 0.5679, "translate": "채소" },
+    { "label": "Food group", "score": 0.5673, "translate": "식품군" },
+    { "label": "Local food", "score": 0.5672, "translate": "현지 음식" },
+    { "label": "Rose order", "score": 0.563, "translate": "장미 주문" },
+    { "label": "Rose family", "score": 0.5581, "translate": "장미 가족" },
+    {
+      "label": "Flowering plant",
+      "score": 0.5541,
+      "translate": "꽃 피는 식물"
+    },
+    { "label": "Leaf vegetable", "score": 0.5522, "translate": "잎채소" },
+    { "label": "Artwork", "score": 0.5429, "translate": "삽화" },
+    { "label": "Grape", "score": 0.5391, "translate": "포도" },
+    { "label": "Porcelain", "score": 0.5309, "translate": "도자기" },
+    { "label": "Flower", "score": 0.5269, "translate": "꽃" },
+    { "label": "Visual arts", "score": 0.5224, "translate": "시각 예술" },
+    { "label": "House", "score": 0.5217, "translate": "집" },
+    { "label": "Rubus", "score": 0.5007, "translate": "루부스" }
+  ],
+  "object": [
+    {
+      "name": "Jug",
+      "score": 0.8268,
+      "bbox": [
+        [0.2869, 0.2281],
+        [0.6262, 0.2281],
+        [0.6262, 0.6667],
+        [0.2869, 0.6667]
+      ],
+      "translate": "조끼"
+    },
+    {
+      "name": "Pomegranate",
+      "score": 0.7562,
+      "bbox": [
+        [0.448, 0.591],
+        [0.657, 0.591],
+        [0.657, 0.883],
+        [0.448, 0.883]
+      ],
+      "translate": "석류"
+    },
+    {
+      "name": "Tableware",
+      "score": 0.7211,
+      "bbox": [
+        [0.281, 0.2307],
+        [0.6221, 0.2307],
+        [0.6221, 0.6805],
+        [0.281, 0.6805]
+      ],
+      "translate": "식기"
+    },
+    {
+      "name": "Food",
+      "score": 0.6051,
+      "bbox": [
+        [0.7866, 0.4826],
+        [0.961, 0.4826],
+        [0.961, 0.7751],
+        [0.7866, 0.7751]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.5482,
+      "bbox": [
+        [0.0656, 0.5314],
+        [0.3455, 0.5314],
+        [0.3455, 0.861],
+        [0.0656, 0.861]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Tableware",
+      "score": 0.5294,
+      "bbox": [
+        [0.303, 0.2364],
+        [0.5922, 0.2364],
+        [0.5922, 0.6305],
+        [0.303, 0.6305]
+      ],
+      "translate": "식기"
+    },
+    {
+      "name": "Food",
+      "score": 0.5137,
+      "bbox": [
+        [0.6231, 0.5511],
+        [0.868, 0.5511],
+        [0.868, 0.9047],
+        [0.6231, 0.9047]
+      ],
+      "translate": "음식"
+    }
+  ]
+}

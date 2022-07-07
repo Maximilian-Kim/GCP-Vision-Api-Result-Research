@@ -1,0 +1,96 @@
+{
+  "label": [
+    { "label": "Dog", "score": 0.9577, "translate": "개" },
+    { "label": "Dog breed", "score": 0.885, "translate": "개 품종" },
+    { "label": "Carnivore", "score": 0.8621, "translate": "육식 동물" },
+    { "label": "Fawn", "score": 0.8159, "translate": "엷은 황갈색" },
+    { "label": "Companion dog", "score": 0.8028, "translate": "반려견" },
+    { "label": "Tail", "score": 0.7527, "translate": "꼬리" },
+    { "label": "Whiskers", "score": 0.7521, "translate": "구레나룻" },
+    { "label": "Snout", "score": 0.7438, "translate": "주둥이" },
+    { "label": "Dog supply", "score": 0.7261, "translate": "개 공급" },
+    { "label": "Working animal", "score": 0.7177, "translate": "일하는 동물" },
+    { "label": "Sporting Group", "score": 0.6994, "translate": "스포츠 그룹" },
+    { "label": "Paw", "score": 0.6784, "translate": "발" },
+    { "label": "Spitz", "score": 0.6687, "translate": "스피츠" },
+    { "label": "Fur", "score": 0.6486, "translate": "털" },
+    { "label": "Art", "score": 0.631, "translate": "미술" },
+    { "label": "Happy", "score": 0.6293, "translate": "행복하다" },
+    { "label": "Toy dog", "score": 0.6057, "translate": "장난감 개" },
+    { "label": "Terrestrial animal", "score": 0.596, "translate": "육상 동물" },
+    { "label": "Toy", "score": 0.5907, "translate": "장난감" },
+    { "label": "Canidae", "score": 0.5663, "translate": "개과" },
+    {
+      "label": "Ancient dog breeds",
+      "score": 0.5596,
+      "translate": "고대 개 품종"
+    },
+    { "label": "Photo caption", "score": 0.5504, "translate": "사진 캡션" },
+    { "label": "Wildlife", "score": 0.5362, "translate": "야생 동물" },
+    {
+      "label": "Non-Sporting Group",
+      "score": 0.5341,
+      "translate": "비스포츠 그룹"
+    },
+    { "label": "Puppy", "score": 0.5304, "translate": "강아지" },
+    { "label": "Working dog", "score": 0.5266, "translate": "일하는 개" },
+    { "label": "Corgi-chihuahua", "score": 0.5204, "translate": "코기치와와" }
+  ],
+  "object": [
+    {
+      "name": "Dog",
+      "score": 0.8934,
+      "bbox": [
+        [0.439, 0.2832],
+        [0.6831, 0.2832],
+        [0.6831, 0.9395],
+        [0.439, 0.9395]
+      ],
+      "translate": "개"
+    },
+    {
+      "name": "Animal",
+      "score": 0.8513,
+      "bbox": [
+        [0.1278, 0.5141],
+        [0.2936, 0.5141],
+        [0.2936, 0.9269],
+        [0.1278, 0.9269]
+      ],
+      "translate": "동물"
+    },
+    {
+      "name": "Animal",
+      "score": 0.833,
+      "bbox": [
+        [0.6657, 0.6412],
+        [0.9031, 0.6412],
+        [0.9031, 0.9442],
+        [0.6657, 0.9442]
+      ],
+      "translate": "동물"
+    },
+    {
+      "name": "Animal",
+      "score": 0.8039,
+      "bbox": [
+        [0.2285, 0.352],
+        [0.4644, 0.352],
+        [0.4644, 0.9307],
+        [0.2285, 0.9307]
+      ],
+      "translate": "동물"
+    },
+    {
+      "name": "Stuffed toy",
+      "score": 0.6822,
+      "bbox": [
+        [0.2471, 0.3809],
+        [0.4557, 0.3809],
+        [0.4557, 0.9308],
+        [0.2471, 0.9308]
+      ],
+      "translate": "봉제 인형"
+    }
+  ]
+}

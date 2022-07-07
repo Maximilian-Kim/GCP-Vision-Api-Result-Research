@@ -1,0 +1,101 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.9859, "translate": "음식" },
+    { "label": "Natural foods", "score": 0.8846, "translate": "자연 식품" },
+    { "label": "Plant", "score": 0.8544, "translate": "식물" },
+    { "label": "Ingredient", "score": 0.8501, "translate": "재료" },
+    { "label": "Fruit", "score": 0.8231, "translate": "과일" },
+    { "label": "Cuisine", "score": 0.7923, "translate": "요리" },
+    { "label": "Recipe", "score": 0.7806, "translate": "레시피" },
+    { "label": "Grape", "score": 0.7708, "translate": "포도" },
+    { "label": "Superfood", "score": 0.7518, "translate": "슈퍼푸드" },
+    { "label": "Produce", "score": 0.7516, "translate": "생산하다" },
+    { "label": "Whole food", "score": 0.7267, "translate": "전체 식품" },
+    { "label": "Food group", "score": 0.7207, "translate": "식품군" },
+    {
+      "label": "Flowering plant",
+      "score": 0.7095,
+      "translate": "꽃 피는 식물"
+    },
+    { "label": "Seedless fruit", "score": 0.7035, "translate": "씨 없는 과일" },
+    { "label": "Art", "score": 0.6993, "translate": "미술" },
+    { "label": "Event", "score": 0.6959, "translate": "이벤트" },
+    { "label": "Local food", "score": 0.6543, "translate": "현지 음식" },
+    { "label": "Banana family", "score": 0.6517, "translate": "바나나 가족" },
+    { "label": "Vegan nutrition", "score": 0.647, "translate": "비건 영양" },
+    { "label": "Dish", "score": 0.6464, "translate": "접시" },
+    {
+      "label": "Still life photography",
+      "score": 0.6301,
+      "translate": "정물 사진"
+    },
+    { "label": "Saba banana", "score": 0.6299, "translate": "사바 바나나" },
+    { "label": "Tableware", "score": 0.6095, "translate": "식기" },
+    { "label": "Jewellery", "score": 0.6012, "translate": "보석류" },
+    { "label": "Sharing", "score": 0.5893, "translate": "나누는" },
+    { "label": "Still life", "score": 0.5646, "translate": "정물" },
+    {
+      "label": "Accessory fruit",
+      "score": 0.5636,
+      "translate": "액세서리 과일"
+    },
+    { "label": "Vegetable", "score": 0.5567, "translate": "채소" },
+    { "label": "Vitis", "score": 0.5439, "translate": "비티스" },
+    {
+      "label": "Fashion accessory",
+      "score": 0.5336,
+      "translate": "패션 액세서리"
+    },
+    {
+      "label": "Grapevine family",
+      "score": 0.5297,
+      "translate": "그레이프바인 가족"
+    }
+  ],
+  "object": [
+    {
+      "name": "Banana",
+      "score": 0.6822,
+      "bbox": [
+        [0.218, 0.1428],
+        [0.7944, 0.1428],
+        [0.7944, 0.4618],
+        [0.218, 0.4618]
+      ],
+      "translate": "바나나"
+    },
+    {
+      "name": "Grape",
+      "score": 0.6378,
+      "bbox": [
+        [0.254, 0.3772],
+        [0.7249, 0.3772],
+        [0.7249, 0.7709],
+        [0.254, 0.7709]
+      ],
+      "translate": "포도"
+    },
+    {
+      "name": "Food",
+      "score": 0.506,
+      "bbox": [
+        [0.01, 0.0986],
+        [0.9599, 0.0986],
+        [0.9599, 0.9511],
+        [0.01, 0.9511]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.501,
+      "bbox": [
+        [0.2167, 0.1598],
+        [0.7422, 0.1598],
+        [0.7422, 0.5069],
+        [0.2167, 0.5069]
+      ],
+      "translate": "과일"
+    }
+  ]
+}

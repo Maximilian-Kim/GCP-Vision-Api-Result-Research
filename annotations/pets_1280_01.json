@@ -1,0 +1,89 @@
+{
+  "label": [
+    { "label": "Dog", "score": 0.955, "translate": "개" },
+    { "label": "Dog breed", "score": 0.8752, "translate": "개 품종" },
+    { "label": "Carnivore", "score": 0.8689, "translate": "육식 동물" },
+    { "label": "Whiskers", "score": 0.8225, "translate": "구레나룻" },
+    { "label": "Fawn", "score": 0.8157, "translate": "엷은 황갈색" },
+    { "label": "Companion dog", "score": 0.8121, "translate": "반려견" },
+    { "label": "Cat", "score": 0.784, "translate": "고양이" },
+    { "label": "Felidae", "score": 0.7695, "translate": "흰개미과" },
+    { "label": "Tail", "score": 0.7533, "translate": "꼬리" },
+    { "label": "Snout", "score": 0.7397, "translate": "주둥이" },
+    {
+      "label": "Terrestrial animal",
+      "score": 0.7208,
+      "translate": "육상 동물"
+    },
+    { "label": "Toy", "score": 0.7171, "translate": "장난감" },
+    { "label": "Paw", "score": 0.7104, "translate": "발" },
+    { "label": "Working animal", "score": 0.7, "translate": "일하는 동물" },
+    { "label": "Fur", "score": 0.6712, "translate": "털" },
+    { "label": "Sporting Group", "score": 0.6449, "translate": "스포츠 그룹" },
+    { "label": "Canidae", "score": 0.6318, "translate": "개과" },
+    { "label": "Art", "score": 0.6309, "translate": "미술" },
+    { "label": "Photo caption", "score": 0.5931, "translate": "사진 캡션" },
+    { "label": "Sitting", "score": 0.5826, "translate": "좌석" },
+    { "label": "Wildlife", "score": 0.5772, "translate": "야생 동물" },
+    { "label": "Puppy", "score": 0.5672, "translate": "강아지" },
+    { "label": "Animal figure", "score": 0.5515, "translate": "동물 그림" },
+    {
+      "label": "Ancient dog breeds",
+      "score": 0.5427,
+      "translate": "고대 개 품종"
+    },
+    { "label": "Comfort", "score": 0.5366, "translate": "편안" },
+    {
+      "label": "Non-Sporting Group",
+      "score": 0.5365,
+      "translate": "비스포츠 그룹"
+    },
+    { "label": "Toy dog", "score": 0.5001, "translate": "장난감 개" }
+  ],
+  "object": [
+    {
+      "name": "Cat",
+      "score": 0.9404,
+      "bbox": [
+        [0.1337, 0.4991],
+        [0.2841, 0.4991],
+        [0.2841, 0.9203],
+        [0.1337, 0.9203]
+      ],
+      "translate": "고양이"
+    },
+    {
+      "name": "Cat",
+      "score": 0.9279,
+      "bbox": [
+        [0.6632, 0.6423],
+        [0.9051, 0.6423],
+        [0.9051, 0.9308],
+        [0.6632, 0.9308]
+      ],
+      "translate": "고양이"
+    },
+    {
+      "name": "Dog",
+      "score": 0.843,
+      "bbox": [
+        [0.4485, 0.2935],
+        [0.6745, 0.2935],
+        [0.6745, 0.9354],
+        [0.4485, 0.9354]
+      ],
+      "translate": "개"
+    },
+    {
+      "name": "Animal",
+      "score": 0.7042,
+      "bbox": [
+        [0.2239, 0.3452],
+        [0.4486, 0.3452],
+        [0.4486, 0.94],
+        [0.2239, 0.94]
+      ],
+      "translate": "동물"
+    }
+  ]
+}

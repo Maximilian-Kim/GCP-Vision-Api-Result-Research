@@ -1,0 +1,112 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.9833, "translate": "음식" },
+    { "label": "Tableware", "score": 0.9642, "translate": "식기" },
+    { "label": "Dishware", "score": 0.9325, "translate": "식기" },
+    { "label": "Plant", "score": 0.9291, "translate": "식물" },
+    { "label": "Drinkware", "score": 0.897, "translate": "음료 용기" },
+    { "label": "Fruit", "score": 0.8835, "translate": "과일" },
+    { "label": "Ingredient", "score": 0.8788, "translate": "재료" },
+    { "label": "Serveware", "score": 0.8746, "translate": "서브웨어" },
+    { "label": "Natural foods", "score": 0.867, "translate": "자연 식품" },
+    { "label": "Porcelain", "score": 0.8158, "translate": "도자기" },
+    { "label": "Plate", "score": 0.8139, "translate": "그릇" },
+    { "label": "Cup", "score": 0.7772, "translate": "컵" },
+    { "label": "Table", "score": 0.7536, "translate": "테이블" },
+    { "label": "Superfood", "score": 0.7503, "translate": "슈퍼푸드" },
+    { "label": "Sweetness", "score": 0.7306, "translate": "단맛" },
+    { "label": "Seedless fruit", "score": 0.7291, "translate": "씨 없는 과일" },
+    { "label": "Kitchen utensil", "score": 0.7285, "translate": "주방기구" },
+    { "label": "Pitcher", "score": 0.7203, "translate": "피처" },
+    { "label": "Produce", "score": 0.716, "translate": "생산하다" },
+    { "label": "Platter", "score": 0.711, "translate": "플래터" },
+    { "label": "Apple", "score": 0.6866, "translate": "사과" },
+    { "label": "Dish", "score": 0.6856, "translate": "접시" },
+    {
+      "label": "Accessory fruit",
+      "score": 0.6705,
+      "translate": "액세서리 과일"
+    },
+    { "label": "Floral design", "score": 0.6704, "translate": "꽃무늬 디자인" },
+    { "label": "Recipe", "score": 0.6693, "translate": "레시피" },
+    {
+      "label": "Still life photography",
+      "score": 0.6596,
+      "translate": "정물 사진"
+    },
+    { "label": "Strawberry", "score": 0.6478, "translate": "딸기" },
+    { "label": "Still life", "score": 0.6464, "translate": "정물" },
+    { "label": "Dinnerware set", "score": 0.6445, "translate": "식기 세트" },
+    { "label": "Visual arts", "score": 0.6425, "translate": "시각 예술" },
+    { "label": "Pottery", "score": 0.6399, "translate": "도기류" },
+    { "label": "Local food", "score": 0.6366, "translate": "현지 음식" },
+    { "label": "Whole food", "score": 0.6317, "translate": "전체 식품" },
+    { "label": "Ceramic", "score": 0.6289, "translate": "세라믹" },
+    { "label": "Artwork", "score": 0.6248, "translate": "삽화" },
+    { "label": "Jug", "score": 0.6205, "translate": "조끼" },
+    { "label": "Grape", "score": 0.6166, "translate": "포도" },
+    { "label": "Glass", "score": 0.6158, "translate": "유리" },
+    {
+      "label": "Grapevine family",
+      "score": 0.6001,
+      "translate": "그레이프바인 가족"
+    },
+    { "label": "Rose family", "score": 0.598, "translate": "장미 가족" },
+    { "label": "Cuisine", "score": 0.5971, "translate": "요리" },
+    { "label": "Vase", "score": 0.597, "translate": "꽃병" },
+    { "label": "Food group", "score": 0.5956, "translate": "식품군" },
+    { "label": "Superfruit", "score": 0.5691, "translate": "슈퍼프루트" },
+    { "label": "Vitis", "score": 0.5517, "translate": "비티스" },
+    { "label": "earthenware", "score": 0.5287, "translate": "질그릇" },
+    { "label": "Berry", "score": 0.5218, "translate": "말린 씨앗" },
+    { "label": "Photography", "score": 0.5178, "translate": "사진술" },
+    { "label": "Meal", "score": 0.5087, "translate": "식사" },
+    { "label": "Cut flowers", "score": 0.5058, "translate": "꽃을 자르다" }
+  ],
+  "object": [
+    {
+      "name": "Pomegranate",
+      "score": 0.7575,
+      "bbox": [
+        [0.4491, 0.5868],
+        [0.6515, 0.5868],
+        [0.6515, 0.8721],
+        [0.4491, 0.8721]
+      ],
+      "translate": "석류"
+    },
+    {
+      "name": "Pomegranate",
+      "score": 0.653,
+      "bbox": [
+        [0.6799, 0.4169],
+        [0.8247, 0.4169],
+        [0.8247, 0.5925],
+        [0.6799, 0.5925]
+      ],
+      "translate": "석류"
+    },
+    {
+      "name": "Pomegranate",
+      "score": 0.6191,
+      "bbox": [
+        [0.7728, 0.4943],
+        [0.9574, 0.4943],
+        [0.9574, 0.769],
+        [0.7728, 0.769]
+      ],
+      "translate": "석류"
+    },
+    {
+      "name": "Pitcher",
+      "score": 0.6167,
+      "bbox": [
+        [0.292, 0.2398],
+        [0.6405, 0.2398],
+        [0.6405, 0.6754],
+        [0.292, 0.6754]
+      ],
+      "translate": "피처"
+    }
+  ]
+}

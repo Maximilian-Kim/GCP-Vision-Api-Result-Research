@@ -1,0 +1,127 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.9816, "translate": "음식" },
+    { "label": "Tableware", "score": 0.9675, "translate": "식기" },
+    { "label": "Table", "score": 0.943, "translate": "테이블" },
+    { "label": "Plate", "score": 0.8265, "translate": "그릇" },
+    { "label": "Cuisine", "score": 0.8259, "translate": "요리" },
+    { "label": "Tartan", "score": 0.8125, "translate": "격자 무늬 모직물" },
+    { "label": "Cat", "score": 0.799, "translate": "고양이" },
+    { "label": "Tablecloth", "score": 0.7731, "translate": "식탁보" },
+    { "label": "Recreation", "score": 0.7696, "translate": "휴양" },
+    { "label": "Dishware", "score": 0.7671, "translate": "식기" },
+    { "label": "Dish", "score": 0.7572, "translate": "접시" },
+    { "label": "Mixing bowl", "score": 0.7265, "translate": "믹싱 볼" },
+    { "label": "Chair", "score": 0.7096, "translate": "의자" },
+    { "label": "Bowl", "score": 0.7036, "translate": "그릇" },
+    { "label": "Event", "score": 0.6963, "translate": "이벤트" },
+    { "label": "Linens", "score": 0.6941, "translate": "리넨" },
+    { "label": "Porcelain", "score": 0.6885, "translate": "도자기" },
+    { "label": "Felidae", "score": 0.6806, "translate": "흰개미과" },
+    { "label": "Companion dog", "score": 0.674, "translate": "반려견" },
+    { "label": "Outdoor furniture", "score": 0.6734, "translate": "야외 가구" },
+    { "label": "Recipe", "score": 0.6728, "translate": "레시피" },
+    { "label": "Toy", "score": 0.6705, "translate": "장난감" },
+    { "label": "Serveware", "score": 0.6699, "translate": "서브웨어" },
+    { "label": "Fast food", "score": 0.666, "translate": "패스트 푸드" },
+    { "label": "Wine glass", "score": 0.6642, "translate": "와인 잔" },
+    { "label": "Platter", "score": 0.6468, "translate": "플래터" },
+    { "label": "Ingredient", "score": 0.6458, "translate": "재료" },
+    {
+      "label": "Small to medium-sized cats",
+      "score": 0.6455,
+      "translate": "중소형 고양이"
+    },
+    { "label": "Finger food", "score": 0.6412, "translate": "손가락 음식" },
+    { "label": "Plaid", "score": 0.6384, "translate": "격자 무늬" },
+    { "label": "Comfort food", "score": 0.6342, "translate": "컴포트 푸드" },
+    { "label": "Pattern", "score": 0.6066, "translate": "무늬" },
+    { "label": "Fruit", "score": 0.5945, "translate": "과일" },
+    { "label": "Meal", "score": 0.5933, "translate": "식사" },
+    { "label": "Breakfast", "score": 0.5733, "translate": "아침" },
+    { "label": "Picnic", "score": 0.5553, "translate": "피크닉" },
+    { "label": "Spoon", "score": 0.5484, "translate": "숟가락" },
+    { "label": "Lunch", "score": 0.5387, "translate": "점심" },
+    { "label": "Brunch", "score": 0.514, "translate": "브런치" },
+    { "label": "Tail", "score": 0.5129, "translate": "꼬리" }
+  ],
+  "object": [
+    {
+      "name": "Bowl",
+      "score": 0.9042,
+      "bbox": [
+        [0.3056, 0.7157],
+        [0.5571, 0.7157],
+        [0.5571, 0.9644],
+        [0.3056, 0.9644]
+      ],
+      "translate": "그릇"
+    },
+    {
+      "name": "Dog",
+      "score": 0.8468,
+      "bbox": [
+        [0.0843, 0.2635],
+        [0.4531, 0.2635],
+        [0.4531, 0.7168],
+        [0.0843, 0.7168]
+      ],
+      "translate": "개"
+    },
+    {
+      "name": "Chair",
+      "score": 0.8021,
+      "bbox": [
+        [0.4338, 0.0477],
+        [0.724, 0.0477],
+        [0.724, 0.3861],
+        [0.4338, 0.3861]
+      ],
+      "translate": "의자"
+    },
+    {
+      "name": "Table top",
+      "score": 0.6526,
+      "bbox": [
+        [0.0119, 0.2742],
+        [0.9974, 0.2742],
+        [0.9974, 0.9974],
+        [0.0119, 0.9974]
+      ],
+      "translate": "테이블 탑"
+    },
+    {
+      "name": "Tableware",
+      "score": 0.5904,
+      "bbox": [
+        [0.2114, 0.7127],
+        [0.3382, 0.7127],
+        [0.3382, 0.8396],
+        [0.2114, 0.8396]
+      ],
+      "translate": "식기"
+    },
+    {
+      "name": "Food",
+      "score": 0.5826,
+      "bbox": [
+        [0.4689, 0.9352],
+        [0.7434, 0.9352],
+        [0.7434, 0.9965],
+        [0.4689, 0.9965]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Tableware",
+      "score": 0.5571,
+      "bbox": [
+        [0.5075, 0.5892],
+        [0.9278, 0.5892],
+        [0.9278, 0.7918],
+        [0.5075, 0.7918]
+      ],
+      "translate": "식기"
+    }
+  ]
+}

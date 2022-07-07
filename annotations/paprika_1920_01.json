@@ -1,0 +1,102 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.988, "translate": "음식" },
+    { "label": "Green bell pepper", "score": 0.9662, "translate": "녹색 피망" },
+    { "label": "Yellow pepper", "score": 0.942, "translate": "노란 후추" },
+    { "label": "Rangpur", "score": 0.9295, "translate": "랑푸르" },
+    { "label": "Bell pepper", "score": 0.9262, "translate": "피망" },
+    { "label": "Ingredient", "score": 0.9101, "translate": "재료" },
+    { "label": "Natural foods", "score": 0.8962, "translate": "자연 식품" },
+    { "label": "Tableware", "score": 0.8788, "translate": "식기" },
+    { "label": "Recipe", "score": 0.8744, "translate": "레시피" },
+    { "label": "Clementine", "score": 0.8594, "translate": "클레멘타인" },
+    { "label": "Bitter orange", "score": 0.8565, "translate": "쓴 오렌지" },
+    { "label": "Whole food", "score": 0.8502, "translate": "전체 식품" },
+    { "label": "Plant", "score": 0.8454, "translate": "식물" },
+    { "label": "Leaf vegetable", "score": 0.8357, "translate": "잎채소" },
+    { "label": "Fruit", "score": 0.8352, "translate": "과일" },
+    { "label": "Tangelo", "score": 0.8349, "translate": "탄젤로" },
+    { "label": "Pimiento", "score": 0.8306, "translate": "피미엔토" },
+    { "label": "Capsicum", "score": 0.8217, "translate": "고추" },
+    { "label": "Food group", "score": 0.8205, "translate": "식품군" },
+    { "label": "Citrus", "score": 0.813, "translate": "감귤류" },
+    { "label": "Tangerine", "score": 0.8121, "translate": "귤" },
+    {
+      "label": "Valencia orange",
+      "score": 0.8112,
+      "translate": "발렌시아 오렌지"
+    },
+    {
+      "label": "Mandarin orange",
+      "score": 0.807,
+      "translate": "만다린 오렌지"
+    },
+    { "label": "Cuisine", "score": 0.8036, "translate": "요리" },
+    { "label": "Orange", "score": 0.7997, "translate": "주황색" },
+    { "label": "Produce", "score": 0.7991, "translate": "생산하다" },
+    { "label": "Vegetable", "score": 0.7977, "translate": "채소" },
+    { "label": "Dishware", "score": 0.7883, "translate": "식기" },
+    { "label": "Superfood", "score": 0.7882, "translate": "슈퍼푸드" },
+    { "label": "Local food", "score": 0.7667, "translate": "현지 음식" },
+    { "label": "Citric acid", "score": 0.7632, "translate": "구연산" },
+    { "label": "Dish", "score": 0.7532, "translate": "접시" },
+    {
+      "label": "Bell peppers and chili peppers",
+      "score": 0.7488,
+      "translate": "피망과 칠리 고추"
+    },
+    { "label": "Red bell pepper", "score": 0.7467, "translate": "빨간 피망" },
+    {
+      "label": "Flowering plant",
+      "score": 0.7311,
+      "translate": "꽃 피는 식물"
+    },
+    { "label": "Meyer lemon", "score": 0.7258, "translate": "마이어 레몬" },
+    { "label": "Seedless fruit", "score": 0.725, "translate": "씨 없는 과일" },
+    { "label": "Garnish", "score": 0.7178, "translate": "고명" },
+    { "label": "Vegan nutrition", "score": 0.7089, "translate": "비건 영양" },
+    { "label": "Sweet lemon", "score": 0.7083, "translate": "달콤한 레몬" },
+    { "label": "Ugli fruit", "score": 0.6561, "translate": "우글리 과일" },
+    { "label": "Cherry Tomatoes", "score": 0.6438, "translate": "방울 토마토" },
+    { "label": "Chili pepper", "score": 0.6323, "translate": "칠레 고추" },
+    { "label": "Bush tomato", "score": 0.632, "translate": "부시 토마토" },
+    { "label": "Comfort food", "score": 0.6213, "translate": "컴포트 푸드" },
+    {
+      "label": "Nightshade family",
+      "score": 0.6212,
+      "translate": "밤나무 가족"
+    },
+    {
+      "label": "Still life photography",
+      "score": 0.6204,
+      "translate": "정물 사진"
+    },
+    { "label": "Still life", "score": 0.6123, "translate": "정물" },
+    { "label": "Peperoncini", "score": 0.6115, "translate": "페페론치니" },
+    { "label": "Calamondin", "score": 0.6084, "translate": "칼라몬딘" }
+  ],
+  "object": [
+    {
+      "name": "Bell pepper",
+      "score": 0.6971,
+      "bbox": [
+        [0.3684, 0.3904],
+        [0.7072, 0.3904],
+        [0.7072, 0.8683],
+        [0.3684, 0.8683]
+      ],
+      "translate": "피망"
+    },
+    {
+      "name": "Bell pepper",
+      "score": 0.6503,
+      "bbox": [
+        [0.5735, 0.1622],
+        [0.8872, 0.1622],
+        [0.8872, 0.6091],
+        [0.5735, 0.6091]
+      ],
+      "translate": "피망"
+    }
+  ]
+}

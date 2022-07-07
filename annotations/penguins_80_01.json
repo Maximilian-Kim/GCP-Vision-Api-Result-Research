@@ -1,0 +1,45 @@
+{
+  "label": [
+    { "label": "Water", "score": 0.9522, "translate": "물" },
+    { "label": "Sky", "score": 0.8762, "translate": "하늘" },
+    { "label": "Gesture", "score": 0.8526, "translate": "몸짓" },
+    { "label": "Landscape", "score": 0.7687, "translate": "풍경" },
+    { "label": "Travel", "score": 0.7434, "translate": "여행하다" },
+    { "label": "Snow", "score": 0.7293, "translate": "눈" },
+    { "label": "Ice cap", "score": 0.7021, "translate": "아이스 캡" },
+    { "label": "Horizon", "score": 0.6623, "translate": "수평선" },
+    { "label": "Lake", "score": 0.6199, "translate": "호수" },
+    { "label": "Freezing", "score": 0.6171, "translate": "동결" },
+    { "label": "Natural landscape", "score": 0.6054, "translate": "자연 경관" },
+    { "label": "Ocean", "score": 0.5548, "translate": "대양" },
+    { "label": "Wind wave", "score": 0.5534, "translate": "바람 파도" },
+    { "label": "Recreation", "score": 0.5435, "translate": "휴양" },
+    { "label": "Fun", "score": 0.5333, "translate": "재미있는" },
+    { "label": "Wave", "score": 0.5264, "translate": "파도" },
+    { "label": "Wind", "score": 0.5191, "translate": "바람" }
+  ],
+  "object": [
+    {
+      "name": "Person",
+      "score": 0.8062,
+      "bbox": [
+        [0.4693, 0.1843],
+        [0.9949, 0.1843],
+        [0.9949, 0.9165],
+        [0.4693, 0.9165]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Animal",
+      "score": 0.6549,
+      "bbox": [
+        [0.0817, 0.0312],
+        [0.9821, 0.0312],
+        [0.9821, 0.9869],
+        [0.0817, 0.9869]
+      ],
+      "translate": "동물"
+    }
+  ]
+}

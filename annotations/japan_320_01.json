@@ -1,0 +1,175 @@
+{
+  "label": [
+    { "label": "Land vehicle", "score": 0.965, "translate": "육상 차량" },
+    { "label": "Car", "score": 0.962, "translate": "자동차" },
+    { "label": "Building", "score": 0.9433, "translate": "건물" },
+    { "label": "Photograph", "score": 0.9414, "translate": "사진" },
+    {
+      "label": "Automotive lighting",
+      "score": 0.9247,
+      "translate": "자동차 조명"
+    },
+    { "label": "Vehicle", "score": 0.9216, "translate": "차량" },
+    { "label": "Tire", "score": 0.9157, "translate": "타이어" },
+    { "label": "Light", "score": 0.9105, "translate": "빛" },
+    { "label": "Wheel", "score": 0.9079, "translate": "바퀴" },
+    { "label": "Infrastructure", "score": 0.9056, "translate": "하부 구조" },
+    { "label": "Street light", "score": 0.8961, "translate": "가로등" },
+    { "label": "Black", "score": 0.8958, "translate": "검은색" },
+    { "label": "Lighting", "score": 0.8667, "translate": "조명" },
+    { "label": "Zebra crossing", "score": 0.8497, "translate": "얼룩말 횡단" },
+    { "label": "Mode of transport", "score": 0.8404, "translate": "운송 수단" },
+    { "label": "Sky", "score": 0.8314, "translate": "하늘" },
+    { "label": "Line", "score": 0.8243, "translate": "선" },
+    { "label": "Public space", "score": 0.818, "translate": "공공 장소" },
+    { "label": "Road", "score": 0.8086, "translate": "도로" },
+    { "label": "Red", "score": 0.808, "translate": "빨간색" },
+    { "label": "Thoroughfare", "score": 0.7881, "translate": "도로" },
+    { "label": "City", "score": 0.7876, "translate": "도시" },
+    { "label": "Metropolitan area", "score": 0.7784, "translate": "수도권" },
+    { "label": "Metropolis", "score": 0.7779, "translate": "중심지" },
+    { "label": "Electricity", "score": 0.7769, "translate": "전기" },
+    { "label": "Cityscape", "score": 0.7763, "translate": "도시 풍경" },
+    { "label": "Landmark", "score": 0.7753, "translate": "경계표" },
+    {
+      "label": "Tints and shades",
+      "score": 0.7715,
+      "translate": "색조 및 음영"
+    },
+    { "label": "Tower block", "score": 0.7672, "translate": "타워 블록" },
+    {
+      "label": "Electronic signage",
+      "score": 0.7554,
+      "translate": "전자 사이니지"
+    },
+    { "label": "Magenta", "score": 0.7548, "translate": "마젠타" },
+    {
+      "label": "Pedestrian crossing",
+      "score": 0.753,
+      "translate": "횡단 보도"
+    },
+    { "label": "Pedestrian", "score": 0.7497, "translate": "보행자" },
+    { "label": "Snapshot", "score": 0.7428, "translate": "스냅 사진" },
+    { "label": "Midnight", "score": 0.7427, "translate": "자정" },
+    { "label": "Human settlement", "score": 0.7365, "translate": "인간 정착" },
+    { "label": "Mixed-use", "score": 0.7234, "translate": "혼합 사용" },
+    { "label": "Road surface", "score": 0.7211, "translate": "도로 표면" },
+    { "label": "Neon", "score": 0.7126, "translate": "네온" },
+    { "label": "Downtown", "score": 0.7111, "translate": "도심" },
+    { "label": "Asphalt", "score": 0.7085, "translate": "아스팔트" },
+    { "label": "Street", "score": 0.7064, "translate": "거리" },
+    { "label": "Event", "score": 0.7058, "translate": "이벤트" },
+    {
+      "label": "Automotive design",
+      "score": 0.7043,
+      "translate": "자동차 디자인"
+    },
+    { "label": "Darkness", "score": 0.6838, "translate": "어둠" },
+    { "label": "Traffic", "score": 0.6829, "translate": "교통" },
+    { "label": "Lane", "score": 0.6636, "translate": "레인" },
+    { "label": "Sidewalk", "score": 0.6632, "translate": "보도" },
+    { "label": "Night", "score": 0.6482, "translate": "밤" },
+    { "label": "Luxury vehicle", "score": 0.6273, "translate": "고급 차량" }
+  ],
+  "object": [
+    {
+      "name": "Car",
+      "score": 0.8782,
+      "bbox": [
+        [0.52, 0.5384],
+        [0.6987, 0.5384],
+        [0.6987, 0.7346],
+        [0.52, 0.7346]
+      ],
+      "translate": "자동차"
+    },
+    {
+      "name": "Car",
+      "score": 0.8505,
+      "bbox": [
+        [0.8022, 0.5223],
+        [0.9958, 0.5223],
+        [0.9958, 0.7736],
+        [0.8022, 0.7736]
+      ],
+      "translate": "자동차"
+    },
+    {
+      "name": "Person",
+      "score": 0.8487,
+      "bbox": [
+        [0.0004, 0.5034],
+        [0.1203, 0.5034],
+        [0.1203, 0.9916],
+        [0.0004, 0.9916]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Building",
+      "score": 0.8233,
+      "bbox": [
+        [0.6637, 0],
+        [0.9915, 0],
+        [0.9915, 0.551],
+        [0.6637, 0.551]
+      ],
+      "translate": "건물"
+    },
+    {
+      "name": "Person",
+      "score": 0.812,
+      "bbox": [
+        [0.2775, 0.4833],
+        [0.4177, 0.4833],
+        [0.4177, 0.9869],
+        [0.2775, 0.9869]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Car",
+      "score": 0.7417,
+      "bbox": [
+        [0.681, 0.5312],
+        [0.8112, 0.5312],
+        [0.8112, 0.6614],
+        [0.681, 0.6614]
+      ],
+      "translate": "자동차"
+    },
+    {
+      "name": "Building",
+      "score": 0.6754,
+      "bbox": [
+        [0, 0.0123],
+        [0.2392, 0.0123],
+        [0.2392, 0.6101],
+        [0, 0.6101]
+      ],
+      "translate": "건물"
+    },
+    {
+      "name": "Car",
+      "score": 0.6127,
+      "bbox": [
+        [0.0993, 0.5475],
+        [0.2434, 0.5475],
+        [0.2434, 0.661],
+        [0.0993, 0.661]
+      ],
+      "translate": "자동차"
+    },
+    {
+      "name": "Clothing",
+      "score": 0.5474,
+      "bbox": [
+        [0.2906, 0.5371],
+        [0.3906, 0.5371],
+        [0.3906, 0.7574],
+        [0.2906, 0.7574]
+      ],
+      "translate": "의류"
+    }
+  ]
+}

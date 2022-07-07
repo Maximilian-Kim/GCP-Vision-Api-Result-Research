@@ -1,0 +1,30 @@
+{
+  "label": [
+    { "label": "Water", "score": 0.8134, "translate": "물" },
+    { "label": "Art", "score": 0.7023, "translate": "미술" },
+    { "label": "Event", "score": 0.6883, "translate": "이벤트" },
+    {
+      "label": "Terrestrial animal",
+      "score": 0.6252,
+      "translate": "육상 동물"
+    },
+    { "label": "Landscape", "score": 0.6099, "translate": "풍경" },
+    { "label": "Wood", "score": 0.5959, "translate": "목재" },
+    { "label": "Soil", "score": 0.5878, "translate": "토양" },
+    { "label": "Herd", "score": 0.5599, "translate": "떼" },
+    { "label": "Working animal", "score": 0.5326, "translate": "일하는 동물" }
+  ],
+  "object": [
+    {
+      "name": "Animal",
+      "score": 0.8018,
+      "bbox": [
+        [0, 0.1175],
+        [0.995, 0.1175],
+        [0.995, 0.9562],
+        [0, 0.9562]
+      ],
+      "translate": "동물"
+    }
+  ]
+}

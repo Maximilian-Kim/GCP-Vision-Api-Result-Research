@@ -1,0 +1,122 @@
+{
+  "label": [
+    { "label": "Sky", "score": 0.9667, "translate": "하늘" },
+    { "label": "Ecoregion", "score": 0.9238, "translate": "생태 지역" },
+    { "label": "Mountain", "score": 0.9104, "translate": "산" },
+    {
+      "label": "Luggage and bags",
+      "score": 0.8692,
+      "translate": "수하물 및 가방"
+    },
+    {
+      "label": "People in nature",
+      "score": 0.812,
+      "translate": "자연 속의 사람들"
+    },
+    { "label": "Travel", "score": 0.8022, "translate": "여행하다" },
+    { "label": "Bag", "score": 0.8019, "translate": "가방" },
+    { "label": "Leisure", "score": 0.7979, "translate": "여가" },
+    { "label": "Bedrock", "score": 0.7976, "translate": "근본적인" },
+    { "label": "Landscape", "score": 0.7904, "translate": "풍경" },
+    {
+      "label": "Mountainous landforms",
+      "score": 0.7827,
+      "translate": "산악 지형"
+    },
+    { "label": "Formation", "score": 0.7679, "translate": "형성" },
+    { "label": "Penguin", "score": 0.7586, "translate": "펭귄" },
+    { "label": "Knee", "score": 0.7542, "translate": "무릎" },
+    { "label": "Flightless bird", "score": 0.732, "translate": "날 수없는 새" },
+    { "label": "Human leg", "score": 0.7217, "translate": "인간의 다리" },
+    { "label": "Recreation", "score": 0.7166, "translate": "휴양" },
+    { "label": "Fun", "score": 0.7141, "translate": "재미있는" },
+    { "label": "Geology", "score": 0.7106, "translate": "지질학" },
+    { "label": "Backpack", "score": 0.6864, "translate": "배낭" },
+    { "label": "Rock", "score": 0.686, "translate": "바위" },
+    { "label": "Hill", "score": 0.6828, "translate": "언덕" },
+    { "label": "Sand", "score": 0.6793, "translate": "모래" },
+    { "label": "Wilderness", "score": 0.6751, "translate": "황야" },
+    { "label": "Sitting", "score": 0.6529, "translate": "좌석" },
+    { "label": "Mountain range", "score": 0.6503, "translate": "산맥" },
+    { "label": "Boot", "score": 0.6305, "translate": "신병" },
+    { "label": "Badlands", "score": 0.6191, "translate": "황무지" },
+    { "label": "Handbag", "score": 0.6178, "translate": "핸드백" },
+    { "label": "Tourism", "score": 0.615, "translate": "관광 여행" },
+    { "label": "Winter", "score": 0.6032, "translate": "겨울" },
+    { "label": "Sandal", "score": 0.6027, "translate": "샌들" },
+    { "label": "Adventure", "score": 0.5943, "translate": "모험" },
+    { "label": "Wadi", "score": 0.5873, "translate": "와디" },
+    { "label": "Horizon", "score": 0.5757, "translate": "수평선" },
+    { "label": "Vacation", "score": 0.5694, "translate": "휴가" },
+    { "label": "Ocean", "score": 0.5311, "translate": "대양" },
+    { "label": "Summit", "score": 0.5106, "translate": "정상 회담" }
+  ],
+  "object": [
+    {
+      "name": "Person",
+      "score": 0.9088,
+      "bbox": [
+        [0.3843, 0.1882],
+        [0.9607, 0.1882],
+        [0.9607, 0.9367],
+        [0.3843, 0.9367]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Penguin",
+      "score": 0.8202,
+      "bbox": [
+        [0.47, 0.2972],
+        [0.5485, 0.2972],
+        [0.5485, 0.4873],
+        [0.47, 0.4873]
+      ],
+      "translate": "펭귄"
+    },
+    {
+      "name": "Penguin",
+      "score": 0.7704,
+      "bbox": [
+        [0.3605, 0.3195],
+        [0.4412, 0.3195],
+        [0.4412, 0.4923],
+        [0.3605, 0.4923]
+      ],
+      "translate": "펭귄"
+    },
+    {
+      "name": "Backpack",
+      "score": 0.669,
+      "bbox": [
+        [0.8626, 0.424],
+        [0.9941, 0.424],
+        [0.9941, 0.8311],
+        [0.8626, 0.8311]
+      ],
+      "translate": "배낭"
+    },
+    {
+      "name": "Outerwear",
+      "score": 0.6188,
+      "bbox": [
+        [0.455, 0.2164],
+        [0.9606, 0.2164],
+        [0.9606, 0.908],
+        [0.455, 0.908]
+      ],
+      "translate": "겉옷"
+    },
+    {
+      "name": "Clothing",
+      "score": 0.5235,
+      "bbox": [
+        [0.5525, 0.3513],
+        [0.9525, 0.3513],
+        [0.9525, 0.863],
+        [0.5525, 0.863]
+      ],
+      "translate": "의류"
+    }
+  ]
+}

@@ -1,0 +1,39 @@
+{
+  "label": [
+    { "label": "Building", "score": 0.9271, "translate": "건물" },
+    { "label": "Light", "score": 0.9112, "translate": "빛" },
+    { "label": "Purple", "score": 0.9025, "translate": "보라" },
+    { "label": "Plant", "score": 0.8731, "translate": "식물" },
+    { "label": "Violet", "score": 0.8453, "translate": "제비꽃" },
+    { "label": "Magenta", "score": 0.7593, "translate": "마젠타" },
+    { "label": "Entertainment", "score": 0.7439, "translate": "오락" },
+    { "label": "City", "score": 0.7407, "translate": "도시" },
+    { "label": "Event", "score": 0.7235, "translate": "이벤트" },
+    { "label": "Electric blue", "score": 0.6904, "translate": "강청색" },
+    { "label": "Fun", "score": 0.6382, "translate": "재미있는" },
+    { "label": "Flooring", "score": 0.6129, "translate": "바닥" },
+    { "label": "Leisure", "score": 0.6116, "translate": "여가" },
+    {
+      "label": "Display device",
+      "score": 0.5878,
+      "translate": "디스플레이 장치"
+    },
+    { "label": "Public event", "score": 0.5826, "translate": "공개 이벤트" },
+    { "label": "Facade", "score": 0.5462, "translate": "정면" },
+    { "label": "Night", "score": 0.5168, "translate": "밤" },
+    { "label": "Crowd", "score": 0.5062, "translate": "군중" }
+  ],
+  "object": [
+    {
+      "name": "Person",
+      "score": 0.8194,
+      "bbox": [
+        [0.2755, 0.4688],
+        [0.4705, 0.4688],
+        [0.4705, 0.9658],
+        [0.2755, 0.9658]
+      ],
+      "translate": "사람"
+    }
+  ]
+}

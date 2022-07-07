@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="ko">
+  <head>
+    <title>Vision-test</title>
+    <link rel="stylesheet" type="text/css" href="vision-test.css" />
+  </head>
+  <body>
+    <header>
+      <nav>
+        <input type="button" id="previous-image" value="⬅️" />
+        <span id="image-info"></span>
+        <input type="button" id="next-image" value="➡" />
+      </nav>
+    </header>
+    <div id="wrapper">
+      <div id="image-view">
+        <img id="img" />
+      </div>
+      <div id="tag-view">
+        <ul id="object-list">
+          <strong>ObjectDetection</strong
+          ><span id="object-count"></span>
+        </ul>
+        <hr />
+        <ul id="label-list">
+          <strong>LabelDetection</strong
+          ><span id="label-count"></span>
+        </ul>
+      </div>
+    </div>
+
+    <script type="module" src="/vision-test.js"></script>
+  </body>
+</html>

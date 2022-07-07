@@ -1,0 +1,101 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.987, "translate": "음식" },
+    { "label": "Fruit", "score": 0.9351, "translate": "과일" },
+    { "label": "Plant", "score": 0.9324, "translate": "식물" },
+    { "label": "Tableware", "score": 0.9177, "translate": "식기" },
+    { "label": "Ingredient", "score": 0.9153, "translate": "재료" },
+    { "label": "Natural foods", "score": 0.9046, "translate": "자연 식품" },
+    { "label": "Strawberry", "score": 0.8908, "translate": "딸기" },
+    { "label": "Recipe", "score": 0.8818, "translate": "레시피" },
+    { "label": "Staple food", "score": 0.8665, "translate": "상식" },
+    { "label": "Cuisine", "score": 0.863, "translate": "요리" },
+    { "label": "Seedless fruit", "score": 0.8567, "translate": "씨 없는 과일" },
+    { "label": "Dish", "score": 0.8485, "translate": "접시" },
+    { "label": "pear", "score": 0.8463, "translate": "배" },
+    { "label": "Strawberries", "score": 0.8409, "translate": "딸기" },
+    { "label": "Fruit salad", "score": 0.8402, "translate": "과일 샐러드" },
+    { "label": "Food group", "score": 0.819, "translate": "식품군" },
+    { "label": "Berry", "score": 0.8091, "translate": "말린 씨앗" },
+    { "label": "Produce", "score": 0.8026, "translate": "생산하다" },
+    { "label": "Superfood", "score": 0.8014, "translate": "슈퍼푸드" },
+    { "label": "Whole food", "score": 0.7856, "translate": "전체 식품" },
+    { "label": "Sweetness", "score": 0.7628, "translate": "단맛" },
+    { "label": "Local food", "score": 0.736, "translate": "현지 음식" },
+    { "label": "Bowl", "score": 0.7284, "translate": "그릇" },
+    {
+      "label": "Accessory fruit",
+      "score": 0.7273,
+      "translate": "액세서리 과일"
+    },
+    {
+      "label": "Virginia strawberry",
+      "score": 0.7123,
+      "translate": "버지니아 딸기"
+    },
+    { "label": "Dishware", "score": 0.7084, "translate": "식기" },
+    { "label": "Vegan nutrition", "score": 0.6993, "translate": "비건 영양" },
+    { "label": "Plate", "score": 0.6899, "translate": "그릇" },
+    { "label": "Vegetable", "score": 0.6877, "translate": "채소" },
+    {
+      "label": "Costa Rican pitahaya",
+      "score": 0.6842,
+      "translate": "코스타리카 피타하야"
+    },
+    { "label": "Garnish", "score": 0.6802, "translate": "고명" },
+    {
+      "label": "Frutti di bosco",
+      "score": 0.6746,
+      "translate": "프루티 디 보스코"
+    },
+    { "label": "Hardy kiwi", "score": 0.6685, "translate": "하디 키위" },
+    { "label": "Superfruit", "score": 0.6559, "translate": "슈퍼프루트" },
+    { "label": "Grape", "score": 0.6512, "translate": "포도" },
+    { "label": "Red bell pepper", "score": 0.6504, "translate": "빨간 피망" },
+    { "label": "Salad", "score": 0.646, "translate": "샐러드" },
+    { "label": "Drink", "score": 0.6443, "translate": "마시다" },
+    { "label": "Fruit cup", "score": 0.6326, "translate": "과일 컵" },
+    { "label": "Melon", "score": 0.5862, "translate": "멜론" },
+    { "label": "Kitchen utensil", "score": 0.5821, "translate": "주방기구" },
+    { "label": "Serving tray", "score": 0.5538, "translate": "서빙 트레이" },
+    { "label": "Kiwifruit", "score": 0.5523, "translate": "키위 과일" },
+    { "label": "Meal", "score": 0.5514, "translate": "식사" },
+    {
+      "label": "Still life photography",
+      "score": 0.5426,
+      "translate": "정물 사진"
+    },
+    { "label": "Basket", "score": 0.5274, "translate": "바구니" },
+    { "label": "Citrullus", "score": 0.515, "translate": "시트룰러스" },
+    { "label": "Lunch", "score": 0.5106, "translate": "점심" },
+    {
+      "label": "Vegetarian food",
+      "score": 0.5093,
+      "translate": "채식주의 자 음식"
+    }
+  ],
+  "object": [
+    {
+      "name": "Food",
+      "score": 0.7763,
+      "bbox": [
+        [0.0318, 0.0246],
+        [0.4865, 0.0246],
+        [0.4865, 0.8599],
+        [0.0318, 0.8599]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.7734,
+      "bbox": [
+        [0.4927, 0.0313],
+        [0.9545, 0.0313],
+        [0.9545, 0.8147],
+        [0.4927, 0.8147]
+      ],
+      "translate": "음식"
+    }
+  ]
+}

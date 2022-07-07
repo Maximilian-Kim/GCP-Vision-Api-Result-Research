@@ -1,0 +1,110 @@
+{
+  "label": [
+    { "label": "Building", "score": 0.9426, "translate": "건물" },
+    { "label": "Light", "score": 0.9118, "translate": "빛" },
+    { "label": "Skyscraper", "score": 0.8834, "translate": "마천루" },
+    { "label": "Magenta", "score": 0.7864, "translate": "마젠타" },
+    { "label": "Tower block", "score": 0.7718, "translate": "타워 블록" },
+    { "label": "City", "score": 0.7634, "translate": "도시" },
+    { "label": "Road", "score": 0.748, "translate": "도로" },
+    {
+      "label": "Automotive lighting",
+      "score": 0.7449,
+      "translate": "자동차 조명"
+    },
+    { "label": "Asphalt", "score": 0.737, "translate": "아스팔트" },
+    { "label": "Event", "score": 0.7324, "translate": "이벤트" },
+    { "label": "Facade", "score": 0.7233, "translate": "정면" },
+    { "label": "Electric blue", "score": 0.7141, "translate": "강청색" },
+    { "label": "Pedestrian", "score": 0.6708, "translate": "보행자" },
+    { "label": "Crowd", "score": 0.6683, "translate": "군중" },
+    { "label": "Font", "score": 0.6639, "translate": "폰트" },
+    {
+      "label": "Commercial building",
+      "score": 0.659,
+      "translate": "상업용 건물"
+    },
+    { "label": "Entertainment", "score": 0.6508, "translate": "오락" },
+    { "label": "Street", "score": 0.648, "translate": "거리" },
+    { "label": "Midnight", "score": 0.6378, "translate": "자정" },
+    { "label": "Downtown", "score": 0.6247, "translate": "도심" },
+    {
+      "label": "Display device",
+      "score": 0.6195,
+      "translate": "디스플레이 장치"
+    },
+    { "label": "Signage", "score": 0.6171, "translate": "간판" },
+    { "label": "Night", "score": 0.6118, "translate": "밤" },
+    { "label": "Cityscape", "score": 0.5999, "translate": "도시 풍경" },
+    { "label": "Electricity", "score": 0.594, "translate": "전기" },
+    { "label": "Lane", "score": 0.5909, "translate": "레인" },
+    {
+      "label": "Electronic signage",
+      "score": 0.5786,
+      "translate": "전자 사이니지"
+    },
+    { "label": "Traffic", "score": 0.5767, "translate": "교통" },
+    { "label": "Public event", "score": 0.5689, "translate": "공개 이벤트" },
+    { "label": "Neon", "score": 0.5641, "translate": "네온" },
+    { "label": "Mid-size car", "score": 0.553, "translate": "중형차" },
+    { "label": "Darkness", "score": 0.5342, "translate": "어둠" },
+    { "label": "Advertising", "score": 0.5308, "translate": "광고하는" }
+  ],
+  "object": [
+    {
+      "name": "Building",
+      "score": 0.8287,
+      "bbox": [
+        [0.6736, 0.0007],
+        [0.9916, 0.0007],
+        [0.9916, 0.513],
+        [0.6736, 0.513]
+      ],
+      "translate": "건물"
+    },
+    {
+      "name": "Person",
+      "score": 0.8207,
+      "bbox": [
+        [0.2668, 0.4745],
+        [0.4304, 0.4745],
+        [0.4304, 0.9816],
+        [0.2668, 0.9816]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Person",
+      "score": 0.7848,
+      "bbox": [
+        [0.0006, 0.5001],
+        [0.1192, 0.5001],
+        [0.1192, 0.9944],
+        [0.0006, 0.9944]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Building",
+      "score": 0.6891,
+      "bbox": [
+        [0.0069, 0.0006],
+        [0.3836, 0.0006],
+        [0.3836, 0.6115],
+        [0.0069, 0.6115]
+      ],
+      "translate": "건물"
+    },
+    {
+      "name": "Clothing",
+      "score": 0.5929,
+      "bbox": [
+        [0.2717, 0.485],
+        [0.4261, 0.485],
+        [0.4261, 0.9651],
+        [0.2717, 0.9651]
+      ],
+      "translate": "의류"
+    }
+  ]
+}

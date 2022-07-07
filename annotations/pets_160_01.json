@@ -1,0 +1,78 @@
+{
+  "label": [
+    { "label": "Dog", "score": 0.966, "translate": "개" },
+    { "label": "Dog breed", "score": 0.8838, "translate": "개 품종" },
+    { "label": "Carnivore", "score": 0.8837, "translate": "육식 동물" },
+    { "label": "Dog supply", "score": 0.8513, "translate": "개 공급" },
+    { "label": "Fawn", "score": 0.8154, "translate": "엷은 황갈색" },
+    { "label": "Companion dog", "score": 0.8012, "translate": "반려견" },
+    { "label": "Toy", "score": 0.7737, "translate": "장난감" },
+    { "label": "Tail", "score": 0.6965, "translate": "꼬리" },
+    { "label": "Working animal", "score": 0.6803, "translate": "일하는 동물" },
+    { "label": "Art", "score": 0.6164, "translate": "미술" },
+    { "label": "Toy dog", "score": 0.6031, "translate": "장난감 개" },
+    { "label": "Sporting Group", "score": 0.5788, "translate": "스포츠 그룹" },
+    { "label": "Photo caption", "score": 0.5769, "translate": "사진 캡션" },
+    { "label": "Fur", "score": 0.5602, "translate": "털" },
+    {
+      "label": "Ancient dog breeds",
+      "score": 0.5598,
+      "translate": "고대 개 품종"
+    },
+    { "label": "Terrestrial animal", "score": 0.557, "translate": "육상 동물" },
+    { "label": "Puppy", "score": 0.5417, "translate": "강아지" },
+    { "label": "Paw", "score": 0.5404, "translate": "발" },
+    { "label": "Canidae", "score": 0.5279, "translate": "개과" },
+    {
+      "label": "Non-Sporting Group",
+      "score": 0.5265,
+      "translate": "비스포츠 그룹"
+    }
+  ],
+  "object": [
+    {
+      "name": "Dog",
+      "score": 0.8959,
+      "bbox": [
+        [0.4376, 0.2848],
+        [0.6878, 0.2848],
+        [0.6878, 0.9397],
+        [0.4376, 0.9397]
+      ],
+      "translate": "개"
+    },
+    {
+      "name": "Animal",
+      "score": 0.8661,
+      "bbox": [
+        [0.1305, 0.517],
+        [0.2954, 0.517],
+        [0.2954, 0.9277],
+        [0.1305, 0.9277]
+      ],
+      "translate": "동물"
+    },
+    {
+      "name": "Animal",
+      "score": 0.8522,
+      "bbox": [
+        [0.6731, 0.6399],
+        [0.9061, 0.6399],
+        [0.9061, 0.9486],
+        [0.6731, 0.9486]
+      ],
+      "translate": "동물"
+    },
+    {
+      "name": "Animal",
+      "score": 0.7835,
+      "bbox": [
+        [0.2177, 0.3342],
+        [0.4579, 0.3342],
+        [0.4579, 0.9333],
+        [0.2177, 0.9333]
+      ],
+      "translate": "동물"
+    }
+  ]
+}

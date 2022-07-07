@@ -1,0 +1,43 @@
+{
+  "label": [
+    { "label": "Brown", "score": 0.9805, "translate": "갈색" },
+    { "label": "Bird", "score": 0.9648, "translate": "새" },
+    { "label": "Owl", "score": 0.887, "translate": "올빼미" },
+    { "label": "Beak", "score": 0.8811, "translate": "부리" },
+    { "label": "Branch", "score": 0.8763, "translate": "나뭇가지" },
+    { "label": "Wood", "score": 0.865, "translate": "목재" },
+    { "label": "Organism", "score": 0.8568, "translate": "유기체" },
+    { "label": "Trunk", "score": 0.8271, "translate": "트렁크" },
+    { "label": "Screech owl", "score": 0.8119, "translate": "부엉이 올빼미" },
+    {
+      "label": "Terrestrial animal",
+      "score": 0.7674,
+      "translate": "육상 동물"
+    },
+    { "label": "Tree", "score": 0.7367, "translate": "나무" },
+    { "label": "Bird of prey", "score": 0.708, "translate": "맹금" },
+    {
+      "label": "Eastern Screech owl",
+      "score": 0.6321,
+      "translate": "동부 부엉이 올빼미"
+    },
+    { "label": "Wildlife", "score": 0.6043, "translate": "야생 동물" },
+    { "label": "Twig", "score": 0.5877, "translate": "작은 가지" },
+    { "label": "Art", "score": 0.541, "translate": "미술" },
+    { "label": "Woodland", "score": 0.5177, "translate": "삼림지" },
+    { "label": "Soil", "score": 0.5156, "translate": "토양" }
+  ],
+  "object": [
+    {
+      "name": "Owl",
+      "score": 0.9507,
+      "bbox": [
+        [0.2064, 0.1736],
+        [0.4749, 0.1736],
+        [0.4749, 0.9881],
+        [0.2064, 0.9881]
+      ],
+      "translate": "올빼미"
+    }
+  ]
+}

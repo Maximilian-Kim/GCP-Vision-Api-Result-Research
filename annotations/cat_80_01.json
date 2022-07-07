@@ -1,0 +1,43 @@
+{
+  "label": [
+    { "label": "Water", "score": 0.9531, "translate": "물" },
+    { "label": "Building", "score": 0.9377, "translate": "건물" },
+    { "label": "Plant", "score": 0.78, "translate": "식물" },
+    { "label": "Tree", "score": 0.7193, "translate": "나무" },
+    { "label": "House", "score": 0.7185, "translate": "집" },
+    { "label": "Landscape", "score": 0.7157, "translate": "풍경" },
+    { "label": "Event", "score": 0.7029, "translate": "이벤트" },
+    { "label": "Soil", "score": 0.6619, "translate": "토양" },
+    { "label": "Art", "score": 0.6521, "translate": "미술" },
+    { "label": "Roof", "score": 0.5913, "translate": "지붕" },
+    { "label": "Facade", "score": 0.5824, "translate": "정면" },
+    { "label": "Skyscraper", "score": 0.5775, "translate": "마천루" },
+    { "label": "Wood", "score": 0.5651, "translate": "목재" },
+    { "label": "Room", "score": 0.5488, "translate": "방" },
+    { "label": "Grass", "score": 0.5063, "translate": "잔디" }
+  ],
+  "object": [
+    {
+      "name": "Animal",
+      "score": 0.7303,
+      "bbox": [
+        [0.0272, 0.1709],
+        [0.9957, 0.1709],
+        [0.9957, 0.9804],
+        [0.0272, 0.9804]
+      ],
+      "translate": "동물"
+    },
+    {
+      "name": "Insect",
+      "score": 0.539,
+      "bbox": [
+        [0.2171, 0.6913],
+        [0.5571, 0.6913],
+        [0.5571, 0.9529],
+        [0.2171, 0.9529]
+      ],
+      "translate": "곤충"
+    }
+  ]
+}

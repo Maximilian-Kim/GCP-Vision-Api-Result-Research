@@ -1,0 +1,129 @@
+{
+  "label": [
+    { "label": "Musical instrument", "score": 0.9376, "translate": "악기" },
+    { "label": "Guitar", "score": 0.9118, "translate": "기타" },
+    { "label": "String instrument", "score": 0.8944, "translate": "현악기" },
+    { "label": "Guitarist", "score": 0.8882, "translate": "기타리스트" },
+    {
+      "label": "Guitar accessory",
+      "score": 0.8874,
+      "translate": "기타 액세서리"
+    },
+    { "label": "Musician", "score": 0.883, "translate": "음악가" },
+    { "label": "String instrument", "score": 0.854, "translate": "현악기" },
+    {
+      "label": "Plucked string instruments",
+      "score": 0.8506,
+      "translate": "뽑아낸 현악기"
+    },
+    {
+      "label": "String instrument accessory",
+      "score": 0.8376,
+      "translate": "현악기 액세서리"
+    },
+    { "label": "Music", "score": 0.8276, "translate": "음악" },
+    { "label": "Theater curtain", "score": 0.8243, "translate": "극장 커튼" },
+    { "label": "Artist", "score": 0.8154, "translate": "아티스트" },
+    { "label": "Music artist", "score": 0.8129, "translate": "음악가" },
+    { "label": "Performing arts", "score": 0.8127, "translate": "공연 예술" },
+    { "label": "Entertainment", "score": 0.7994, "translate": "오락" },
+    {
+      "label": "Musical instrument accessory",
+      "score": 0.7804,
+      "translate": "악기 액세서리"
+    },
+    {
+      "label": "Electronic instrument",
+      "score": 0.7801,
+      "translate": "전자 기기"
+    },
+    { "label": "Band plays", "score": 0.7784, "translate": "밴드 플레이" },
+    { "label": "Bassist", "score": 0.7768, "translate": "베이시스트" },
+    { "label": "Concert", "score": 0.7366, "translate": "콘서트" },
+    { "label": "Event", "score": 0.7326, "translate": "이벤트" },
+    { "label": "Electric guitar", "score": 0.7322, "translate": "전자 기타" },
+    { "label": "Music venue", "score": 0.7287, "translate": "음악 공연장" },
+    { "label": "Terrestrial animal", "score": 0.718, "translate": "육상 동물" },
+    { "label": "Performance art", "score": 0.7088, "translate": "행위 예술" },
+    {
+      "label": "Electronic musical instrument",
+      "score": 0.7064,
+      "translate": "전자 악기"
+    },
+    { "label": "Stage", "score": 0.6955, "translate": "단계" },
+    { "label": "Curtain", "score": 0.6939, "translate": "커튼" },
+    { "label": "Rock concert", "score": 0.6707, "translate": "록 콘서트" },
+    { "label": "Pop music", "score": 0.67, "translate": "대중 음악" },
+    { "label": "Darkness", "score": 0.6478, "translate": "어둠" },
+    { "label": "Bass guitar", "score": 0.6461, "translate": "베이스 기타" },
+    { "label": "Public event", "score": 0.6429, "translate": "공개 이벤트" },
+    {
+      "label": "Jazz guitarist",
+      "score": 0.6332,
+      "translate": "재즈 기타리스트"
+    },
+    {
+      "label": "Musical ensemble",
+      "score": 0.6299,
+      "translate": "뮤지컬 앙상블"
+    },
+    { "label": "Singer", "score": 0.6261, "translate": "가수" },
+    { "label": "Art", "score": 0.6237, "translate": "미술" },
+    { "label": "Performance", "score": 0.6073, "translate": "성능" },
+    { "label": "Stool", "score": 0.585, "translate": "발판" },
+    { "label": "Folk instrument", "score": 0.5746, "translate": "민속악기" },
+    { "label": "Singing", "score": 0.5725, "translate": "명음" },
+    { "label": "Tail", "score": 0.5619, "translate": "꼬리" },
+    { "label": "Song", "score": 0.553, "translate": "노래" },
+    { "label": "Metal", "score": 0.5468, "translate": "금속" },
+    { "label": "Audio equipment", "score": 0.5441, "translate": "오디오 장비" },
+    { "label": "Wildlife", "score": 0.5266, "translate": "야생 동물" },
+    { "label": "Font", "score": 0.503, "translate": "폰트" }
+  ],
+  "object": [
+    {
+      "name": "Animal",
+      "score": 0.6949,
+      "bbox": [
+        [0.1087, 0.1585],
+        [0.4767, 0.1585],
+        [0.4767, 0.9441],
+        [0.1087, 0.9441]
+      ],
+      "translate": "동물"
+    },
+    {
+      "name": "Person",
+      "score": 0.6914,
+      "bbox": [
+        [0.1438, 0.1473],
+        [0.6177, 0.1473],
+        [0.6177, 0.9815],
+        [0.1438, 0.9815]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Animal",
+      "score": 0.5939,
+      "bbox": [
+        [0.2367, 0.3293],
+        [0.7429, 0.3293],
+        [0.7429, 0.7424],
+        [0.2367, 0.7424]
+      ],
+      "translate": "동물"
+    },
+    {
+      "name": "Guitar",
+      "score": 0.5606,
+      "bbox": [
+        [0.2612, 0.3324],
+        [0.7465, 0.3324],
+        [0.7465, 0.7435],
+        [0.2612, 0.7435]
+      ],
+      "translate": "기타"
+    }
+  ]
+}

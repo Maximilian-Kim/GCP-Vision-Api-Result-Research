@@ -1,0 +1,151 @@
+{
+  "label": [
+    { "label": "Plant", "score": 0.955, "translate": "식물" },
+    { "label": "Ingredient", "score": 0.8836, "translate": "재료" },
+    { "label": "Recipe", "score": 0.8736, "translate": "레시피" },
+    { "label": "Organism", "score": 0.8613, "translate": "유기체" },
+    { "label": "Cuisine", "score": 0.8443, "translate": "요리" },
+    { "label": "Dish", "score": 0.8326, "translate": "접시" },
+    { "label": "Terrestrial plant", "score": 0.7929, "translate": "육상 식물" },
+    { "label": "Produce", "score": 0.752, "translate": "생산하다" },
+    { "label": "Flowerpot", "score": 0.7508, "translate": "화분" },
+    { "label": "Grass", "score": 0.747, "translate": "잔디" },
+    { "label": "Petal", "score": 0.7065, "translate": "꽃잎" },
+    {
+      "label": "Flowering plant",
+      "score": 0.6832,
+      "translate": "꽃 피는 식물"
+    },
+    { "label": "Art", "score": 0.683, "translate": "미술" },
+    {
+      "label": "Fashion accessory",
+      "score": 0.6641,
+      "translate": "패션 액세서리"
+    },
+    { "label": "Flower", "score": 0.6413, "translate": "꽃" },
+    { "label": "Magenta", "score": 0.5883, "translate": "마젠타" },
+    { "label": "Natural foods", "score": 0.5864, "translate": "자연 식품" },
+    { "label": "Font", "score": 0.5863, "translate": "폰트" },
+    { "label": "Floristry", "score": 0.5763, "translate": "플로리스트리" },
+    { "label": "Annual plant", "score": 0.5518, "translate": "연간 공장" },
+    { "label": "Circle", "score": 0.5491, "translate": "원" },
+    { "label": "Vegan nutrition", "score": 0.5488, "translate": "비건 영양" },
+    { "label": "Pattern", "score": 0.5468, "translate": "무늬" },
+    { "label": "Rose order", "score": 0.5458, "translate": "장미 주문" },
+    { "label": "Food group", "score": 0.5435, "translate": "식품군" },
+    { "label": "Glass", "score": 0.5352, "translate": "유리" },
+    { "label": "Rose family", "score": 0.5109, "translate": "장미 가족" }
+  ],
+  "object": [
+    {
+      "name": "Food",
+      "score": 0.6917,
+      "bbox": [
+        [0.2026, 0.1499],
+        [0.6347, 0.1499],
+        [0.6347, 0.8511],
+        [0.2026, 0.8511]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.6328,
+      "bbox": [
+        [0.002, 0.1637],
+        [0.1888, 0.1637],
+        [0.1888, 0.4804],
+        [0.002, 0.4804]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.6297,
+      "bbox": [
+        [0.0193, 0.4899],
+        [0.1823, 0.4899],
+        [0.1823, 0.742],
+        [0.0193, 0.742]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.6257,
+      "bbox": [
+        [0.5693, 0.7202],
+        [0.765, 0.7202],
+        [0.765, 0.9925],
+        [0.5693, 0.9925]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.5851,
+      "bbox": [
+        [0.2597, 0.8467],
+        [0.4083, 0.8467],
+        [0.4083, 0.9966],
+        [0.2597, 0.9966]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.5595,
+      "bbox": [
+        [0.7141, 0.47],
+        [0.9196, 0.47],
+        [0.9196, 0.7618],
+        [0.7141, 0.7618]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.5575,
+      "bbox": [
+        [0.8657, 0.2049],
+        [0.9974, 0.2049],
+        [0.9974, 0.4055],
+        [0.8657, 0.4055]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.5551,
+      "bbox": [
+        [0.6846, 0.2623],
+        [0.8493, 0.2623],
+        [0.8493, 0.5011],
+        [0.6846, 0.5011]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.5399,
+      "bbox": [
+        [0.8979, 0.3776],
+        [0.9965, 0.3776],
+        [0.9965, 0.6083],
+        [0.8979, 0.6083]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.5101,
+      "bbox": [
+        [0.1346, 0.7125],
+        [0.3026, 0.7125],
+        [0.3026, 0.9626],
+        [0.1346, 0.9626]
+      ],
+      "translate": "음식"
+    }
+  ]
+}

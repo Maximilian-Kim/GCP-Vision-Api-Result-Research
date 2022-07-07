@@ -1,0 +1,116 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.9862, "translate": "음식" },
+    { "label": "Tableware", "score": 0.9562, "translate": "식기" },
+    { "label": "Saba banana", "score": 0.9182, "translate": "사바 바나나" },
+    { "label": "Banana", "score": 0.9155, "translate": "바나나" },
+    { "label": "Fruit", "score": 0.9068, "translate": "과일" },
+    { "label": "Natural foods", "score": 0.9001, "translate": "자연 식품" },
+    { "label": "Ingredient", "score": 0.9, "translate": "재료" },
+    { "label": "Matoke", "score": 0.8816, "translate": "마토케" },
+    {
+      "label": "Cooking plantain",
+      "score": 0.8788,
+      "translate": "질경이 요리"
+    },
+    { "label": "Seedless fruit", "score": 0.8698, "translate": "씨 없는 과일" },
+    { "label": "Grape", "score": 0.8608, "translate": "포도" },
+    { "label": "Recipe", "score": 0.8603, "translate": "레시피" },
+    { "label": "Plant", "score": 0.8487, "translate": "식물" },
+    { "label": "Dishware", "score": 0.8234, "translate": "식기" },
+    { "label": "Whole food", "score": 0.8108, "translate": "전체 식품" },
+    { "label": "Plate", "score": 0.7972, "translate": "그릇" },
+    { "label": "Superfood", "score": 0.7901, "translate": "슈퍼푸드" },
+    { "label": "Citrus", "score": 0.788, "translate": "감귤류" },
+    { "label": "Produce", "score": 0.7865, "translate": "생산하다" },
+    { "label": "Food group", "score": 0.7822, "translate": "식품군" },
+    { "label": "Serveware", "score": 0.7806, "translate": "서브웨어" },
+    { "label": "Local food", "score": 0.7744, "translate": "현지 음식" },
+    { "label": "Cuisine", "score": 0.7688, "translate": "요리" },
+    { "label": "Banana family", "score": 0.7448, "translate": "바나나 가족" },
+    { "label": "Table", "score": 0.737, "translate": "테이블" },
+    { "label": "Bowl", "score": 0.7155, "translate": "그릇" },
+    {
+      "label": "Grapevine family",
+      "score": 0.6964,
+      "translate": "그레이프바인 가족"
+    },
+    { "label": "Vegan nutrition", "score": 0.695, "translate": "비건 영양" },
+    { "label": "Berry", "score": 0.6927, "translate": "말린 씨앗" },
+    { "label": "Garnish", "score": 0.6915, "translate": "고명" },
+    { "label": "Platter", "score": 0.6875, "translate": "플래터" },
+    {
+      "label": "Accessory fruit",
+      "score": 0.6828,
+      "translate": "액세서리 과일"
+    },
+    {
+      "label": "Flowering plant",
+      "score": 0.6746,
+      "translate": "꽃 피는 식물"
+    },
+    { "label": "Dish", "score": 0.6734, "translate": "접시" },
+    { "label": "Sweetness", "score": 0.6377, "translate": "단맛" },
+    { "label": "Citric acid", "score": 0.6225, "translate": "구연산" },
+    {
+      "label": "Still life photography",
+      "score": 0.6195,
+      "translate": "정물 사진"
+    },
+    { "label": "Vitis", "score": 0.6092, "translate": "비티스" },
+    { "label": "Still life", "score": 0.5971, "translate": "정물" },
+    { "label": "Cooking", "score": 0.5719, "translate": "요리" },
+    { "label": "Jewellery", "score": 0.507, "translate": "보석류" },
+    {
+      "label": "Vegetarian food",
+      "score": 0.5009,
+      "translate": "채식주의 자 음식"
+    }
+  ],
+  "object": [
+    {
+      "name": "Banana",
+      "score": 0.7251,
+      "bbox": [
+        [0.2191, 0.1502],
+        [0.7963, 0.1502],
+        [0.7963, 0.4526],
+        [0.2191, 0.4526]
+      ],
+      "translate": "바나나"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.6966,
+      "bbox": [
+        [0.2128, 0.3954],
+        [0.3839, 0.3954],
+        [0.3839, 0.6122],
+        [0.2128, 0.6122]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Grape",
+      "score": 0.6541,
+      "bbox": [
+        [0.2525, 0.3818],
+        [0.7278, 0.3818],
+        [0.7278, 0.7691],
+        [0.2525, 0.7691]
+      ],
+      "translate": "포도"
+    },
+    {
+      "name": "Food",
+      "score": 0.5561,
+      "bbox": [
+        [0, 0.1336],
+        [0.9659, 0.1336],
+        [0.9659, 0.9848],
+        [0, 0.9848]
+      ],
+      "translate": "음식"
+    }
+  ]
+}

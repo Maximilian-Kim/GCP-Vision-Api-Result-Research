@@ -1,0 +1,40 @@
+{
+  "label": [
+    { "label": "Dog", "score": 0.9428, "translate": "개" },
+    { "label": "Carnivore", "score": 0.8431, "translate": "육식 동물" },
+    { "label": "Fawn", "score": 0.815, "translate": "엷은 황갈색" },
+    { "label": "Dog breed", "score": 0.8142, "translate": "개 품종" },
+    { "label": "Working animal", "score": 0.7273, "translate": "일하는 동물" },
+    { "label": "Livestock", "score": 0.7001, "translate": "가축" },
+    { "label": "Event", "score": 0.6726, "translate": "이벤트" },
+    {
+      "label": "Terrestrial animal",
+      "score": 0.5968,
+      "translate": "육상 동물"
+    },
+    { "label": "Companion dog", "score": 0.5963, "translate": "반려견" },
+    { "label": "Herd", "score": 0.5932, "translate": "떼" },
+    { "label": "Sporting Group", "score": 0.5749, "translate": "스포츠 그룹" },
+    { "label": "Wildlife", "score": 0.5713, "translate": "야생 동물" },
+    { "label": "Canidae", "score": 0.5268, "translate": "개과" },
+    { "label": "Art", "score": 0.5211, "translate": "미술" },
+    {
+      "label": "Ancient dog breeds",
+      "score": 0.5006,
+      "translate": "고대 개 품종"
+    }
+  ],
+  "object": [
+    {
+      "name": "Animal",
+      "score": 0.7994,
+      "bbox": [
+        [0, 0.2019],
+        [0.9974, 0.2019],
+        [0.9974, 0.9541],
+        [0, 0.9541]
+      ],
+      "translate": "동물"
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "label": [
+    { "label": "Wood", "score": 0.8063, "translate": "목재" },
+    { "label": "Art", "score": 0.7471, "translate": "미술" },
+    { "label": "Water", "score": 0.7161, "translate": "물" },
+    { "label": "Font", "score": 0.6864, "translate": "폰트" },
+    { "label": "Trunk", "score": 0.6491, "translate": "트렁크" },
+    { "label": "Soil", "score": 0.6316, "translate": "토양" },
+    { "label": "Freezing", "score": 0.6297, "translate": "동결" },
+    { "label": "Pattern", "score": 0.6234, "translate": "무늬" },
+    { "label": "Fur", "score": 0.6201, "translate": "털" },
+    { "label": "Wildlife", "score": 0.5751, "translate": "야생 동물" },
+    { "label": "Rock", "score": 0.5637, "translate": "바위" },
+    { "label": "Visual arts", "score": 0.543, "translate": "시각 예술" },
+    { "label": "Snow", "score": 0.5379, "translate": "눈" },
+    { "label": "Winter", "score": 0.5213, "translate": "겨울" },
+    {
+      "label": "Macro photography",
+      "score": 0.5036,
+      "translate": "매크로 사진"
+    }
+  ],
+  "object": [
+    {
+      "name": "Animal",
+      "score": 0.7096,
+      "bbox": [
+        [0.1647, 0.0137],
+        [0.8162, 0.0137],
+        [0.8162, 0.9897],
+        [0.1647, 0.9897]
+      ],
+      "translate": "동물"
+    },
+    {
+      "name": "Animal",
+      "score": 0.5905,
+      "bbox": [
+        [0.7732, 0.017],
+        [0.9964, 0.017],
+        [0.9964, 0.991],
+        [0.7732, 0.991]
+      ],
+      "translate": "동물"
+    }
+  ]
+}

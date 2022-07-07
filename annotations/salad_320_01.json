@@ -1,0 +1,229 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.9874, "translate": "음식" },
+    { "label": "Tableware", "score": 0.931, "translate": "식기" },
+    { "label": "Ingredient", "score": 0.9113, "translate": "재료" },
+    { "label": "Recipe", "score": 0.8807, "translate": "레시피" },
+    { "label": "Cuisine", "score": 0.8535, "translate": "요리" },
+    { "label": "Leaf vegetable", "score": 0.8484, "translate": "잎채소" },
+    { "label": "Natural foods", "score": 0.833, "translate": "자연 식품" },
+    { "label": "Dish", "score": 0.8296, "translate": "접시" },
+    { "label": "Bowl", "score": 0.808, "translate": "그릇" },
+    { "label": "Produce", "score": 0.7943, "translate": "생산하다" },
+    { "label": "Food group", "score": 0.7828, "translate": "식품군" },
+    { "label": "Superfood", "score": 0.7585, "translate": "슈퍼푸드" },
+    { "label": "Vegetable", "score": 0.7502, "translate": "채소" },
+    { "label": "Dishware", "score": 0.7269, "translate": "식기" },
+    { "label": "Local food", "score": 0.6896, "translate": "현지 음식" },
+    { "label": "Plate", "score": 0.6869, "translate": "그릇" },
+    { "label": "Garnish", "score": 0.6742, "translate": "고명" },
+    { "label": "Platter", "score": 0.67, "translate": "플래터" },
+    { "label": "Salad", "score": 0.6535, "translate": "샐러드" },
+    { "label": "Whole food", "score": 0.6385, "translate": "전체 식품" },
+    { "label": "Annual plant", "score": 0.6327, "translate": "연간 공장" },
+    { "label": "Vegan nutrition", "score": 0.6296, "translate": "비건 영양" },
+    { "label": "Comfort food", "score": 0.6229, "translate": "컴포트 푸드" },
+    { "label": "Mixing bowl", "score": 0.6207, "translate": "믹싱 볼" },
+    { "label": "Meal", "score": 0.6168, "translate": "식사" },
+    { "label": "Lunch", "score": 0.5988, "translate": "점심" },
+    { "label": "Fruit", "score": 0.5967, "translate": "과일" },
+    { "label": "Breakfast", "score": 0.5942, "translate": "아침" },
+    { "label": "Finger food", "score": 0.5916, "translate": "손가락 음식" },
+    { "label": "Side dish", "score": 0.5787, "translate": "반찬" },
+    { "label": "Herb", "score": 0.5711, "translate": "목초" },
+    { "label": "Wood", "score": 0.5701, "translate": "목재" },
+    { "label": "Brunch", "score": 0.5646, "translate": "브런치" },
+    { "label": "Olallieberry", "score": 0.5525, "translate": "올리베리" },
+    { "label": "Kitchen utensil", "score": 0.548, "translate": "주방기구" },
+    {
+      "label": "Flowering plant",
+      "score": 0.5466,
+      "translate": "꽃 피는 식물"
+    },
+    { "label": "Cooking", "score": 0.5433, "translate": "요리" },
+    { "label": "Market", "score": 0.5267, "translate": "시장" },
+    {
+      "label": "Vegetarian food",
+      "score": 0.5122,
+      "translate": "채식주의 자 음식"
+    },
+    { "label": "Table", "score": 0.5111, "translate": "테이블" },
+    { "label": "Spoon", "score": 0.5103, "translate": "숟가락" },
+    {
+      "label": "Cruciferous vegetables",
+      "score": 0.5102,
+      "translate": "십자화과 야채"
+    },
+    { "label": "Garden salad", "score": 0.5014, "translate": "가든 샐러드" },
+    { "label": "Tomato", "score": 0.5011, "translate": "토마토" },
+    { "label": "Supper", "score": 0.5009, "translate": "저녁" },
+    { "label": "Delicacy", "score": 0.5002, "translate": "섬세" }
+  ],
+  "object": [
+    {
+      "name": "Bowl",
+      "score": 0.8038,
+      "bbox": [
+        [0.1545, 0.0147],
+        [0.3116, 0.0147],
+        [0.3116, 0.2355],
+        [0.1545, 0.2355]
+      ],
+      "translate": "그릇"
+    },
+    {
+      "name": "Bowl",
+      "score": 0.7819,
+      "bbox": [
+        [0.7159, 0.4633],
+        [0.9178, 0.4633],
+        [0.9178, 0.7608],
+        [0.7159, 0.7608]
+      ],
+      "translate": "그릇"
+    },
+    {
+      "name": "Bowl",
+      "score": 0.7772,
+      "bbox": [
+        [0.5779, 0.7395],
+        [0.7406, 0.7395],
+        [0.7406, 0.9803],
+        [0.5779, 0.9803]
+      ],
+      "translate": "그릇"
+    },
+    {
+      "name": "Vegetable",
+      "score": 0.7608,
+      "bbox": [
+        [0.2084, 0.145],
+        [0.639, 0.145],
+        [0.639, 0.8579],
+        [0.2084, 0.8579]
+      ],
+      "translate": "채소"
+    },
+    {
+      "name": "Vegetable",
+      "score": 0.7442,
+      "bbox": [
+        [0.0025, 0.1813],
+        [0.1722, 0.1813],
+        [0.1722, 0.4581],
+        [0.0025, 0.4581]
+      ],
+      "translate": "채소"
+    },
+    {
+      "name": "Food",
+      "score": 0.7429,
+      "bbox": [
+        [0.1654, 0.027],
+        [0.2932, 0.027],
+        [0.2932, 0.2118],
+        [0.1654, 0.2118]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.7385,
+      "bbox": [
+        [0.0277, 0.5039],
+        [0.1771, 0.5039],
+        [0.1771, 0.7357],
+        [0.0277, 0.7357]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.7367,
+      "bbox": [
+        [0.8685, 0.2132],
+        [0.996, 0.2132],
+        [0.996, 0.3969],
+        [0.8685, 0.3969]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.7319,
+      "bbox": [
+        [0.2718, 0.8589],
+        [0.4044, 0.8589],
+        [0.4044, 0.9954],
+        [0.2718, 0.9954]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.7226,
+      "bbox": [
+        [0.7458, 0.104],
+        [0.8708, 0.104],
+        [0.8708, 0.2965],
+        [0.7458, 0.2965]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.7192,
+      "bbox": [
+        [0.702, 0.2851],
+        [0.837, 0.2851],
+        [0.837, 0.4792],
+        [0.702, 0.4792]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.7015,
+      "bbox": [
+        [0.9016, 0.4023],
+        [0.9971, 0.4023],
+        [0.9971, 0.5923],
+        [0.9016, 0.5923]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.6834,
+      "bbox": [
+        [0.7838, 0.7603],
+        [0.9134, 0.7603],
+        [0.9134, 0.9722],
+        [0.7838, 0.9722]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Bowl",
+      "score": 0.627,
+      "bbox": [
+        [0.6923, 0.2743],
+        [0.844, 0.2743],
+        [0.844, 0.4927],
+        [0.6923, 0.4927]
+      ],
+      "translate": "그릇"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.5055,
+      "bbox": [
+        [0.0392, 0.5115],
+        [0.1718, 0.5115],
+        [0.1718, 0.7188],
+        [0.0392, 0.7188]
+      ],
+      "translate": "과일"
+    }
+  ]
+}

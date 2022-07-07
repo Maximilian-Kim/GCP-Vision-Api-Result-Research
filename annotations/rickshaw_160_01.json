@@ -1,0 +1,135 @@
+{
+  "label": [
+    { "label": "Tire", "score": 0.9766, "translate": "타이어" },
+    { "label": "Vehicle", "score": 0.9613, "translate": "차량" },
+    { "label": "Wheel", "score": 0.9575, "translate": "바퀴" },
+    {
+      "label": "Automotive tire",
+      "score": 0.8989,
+      "translate": "자동차 타이어"
+    },
+    { "label": "Motor vehicle", "score": 0.898, "translate": "자동차" },
+    { "label": "Asphalt", "score": 0.8717, "translate": "아스팔트" },
+    { "label": "Car", "score": 0.8343, "translate": "자동차" },
+    { "label": "Travel", "score": 0.8277, "translate": "여행하다" },
+    { "label": "Sky", "score": 0.8096, "translate": "하늘" },
+    {
+      "label": "Automotive exterior",
+      "score": 0.7914,
+      "translate": "자동차 외장"
+    },
+    { "label": "Road", "score": 0.7523, "translate": "도로" },
+    {
+      "label": "Vehicle registration plate",
+      "score": 0.7163,
+      "translate": "차량등록판"
+    },
+    { "label": "Fender", "score": 0.7104, "translate": "펜더" },
+    {
+      "label": "Automotive lighting",
+      "score": 0.6914,
+      "translate": "자동차 조명"
+    },
+    {
+      "label": "Automotive mirror",
+      "score": 0.6816,
+      "translate": "자동차 미러"
+    },
+    { "label": "Event", "score": 0.6776, "translate": "이벤트" },
+    { "label": "Auto part", "score": 0.6773, "translate": "자동차 부품" },
+    { "label": "Windshield", "score": 0.6744, "translate": "바람막이 유리" },
+    {
+      "label": "Automotive wheel system",
+      "score": 0.668,
+      "translate": "자동차 휠 시스템"
+    },
+    { "label": "Public transport", "score": 0.6589, "translate": "대중 교통" },
+    { "label": "Pedestrian", "score": 0.6574, "translate": "보행자" },
+    {
+      "label": "Commercial vehicle",
+      "score": 0.6533,
+      "translate": "상업용 차량"
+    },
+    { "label": "Traffic", "score": 0.6482, "translate": "교통" },
+    {
+      "label": "Automotive window part",
+      "score": 0.6323,
+      "translate": "자동차 창 부품"
+    },
+    { "label": "Lane", "score": 0.6028, "translate": "레인" },
+    { "label": "Street", "score": 0.5955, "translate": "거리" },
+    { "label": "Tree", "score": 0.5611, "translate": "나무" },
+    { "label": "Building", "score": 0.5424, "translate": "건물" },
+    { "label": "Rear-view mirror", "score": 0.5339, "translate": "백미러" },
+    { "label": "Transport", "score": 0.533, "translate": "수송" },
+    { "label": "Bumper", "score": 0.5286, "translate": "범퍼" }
+  ],
+  "object": [
+    {
+      "name": "Person",
+      "score": 0.834,
+      "bbox": [
+        [0.0327, 0.3293],
+        [0.1005, 0.3293],
+        [0.1005, 0.5846],
+        [0.0327, 0.5846]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Wheel",
+      "score": 0.8103,
+      "bbox": [
+        [0.3232, 0.8094],
+        [0.392, 0.8094],
+        [0.392, 0.9683],
+        [0.3232, 0.9683]
+      ],
+      "translate": "바퀴"
+    },
+    {
+      "name": "Person",
+      "score": 0.742,
+      "bbox": [
+        [0.4969, 0.1931],
+        [0.61, 0.1931],
+        [0.61, 0.7995],
+        [0.4969, 0.7995]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Person",
+      "score": 0.7288,
+      "bbox": [
+        [0.6835, 0.3018],
+        [0.7419, 0.3018],
+        [0.7419, 0.5842],
+        [0.6835, 0.5842]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Person",
+      "score": 0.6376,
+      "bbox": [
+        [0.8613, 0.2369],
+        [0.9113, 0.2369],
+        [0.9113, 0.5412],
+        [0.8613, 0.5412]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Person",
+      "score": 0.507,
+      "bbox": [
+        [0.5529, 0.211],
+        [0.6544, 0.211],
+        [0.6544, 0.8889],
+        [0.5529, 0.8889]
+      ],
+      "translate": "사람"
+    }
+  ]
+}

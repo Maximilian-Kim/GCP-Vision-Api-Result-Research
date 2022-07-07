@@ -1,0 +1,77 @@
+{
+  "label": [
+    { "label": "Entertainment", "score": 0.7798, "translate": "오락" },
+    { "label": "Performing arts", "score": 0.7682, "translate": "공연 예술" },
+    { "label": "Event", "score": 0.7313, "translate": "이벤트" },
+    { "label": "Artist", "score": 0.6978, "translate": "아티스트" },
+    { "label": "Darkness", "score": 0.6941, "translate": "어둠" },
+    { "label": "Art", "score": 0.6843, "translate": "미술" },
+    { "label": "Music", "score": 0.6449, "translate": "음악" },
+    {
+      "label": "Display device",
+      "score": 0.5941,
+      "translate": "디스플레이 장치"
+    },
+    { "label": "Performance art", "score": 0.5922, "translate": "행위 예술" },
+    { "label": "Machine", "score": 0.592, "translate": "기계" },
+    { "label": "Musician", "score": 0.5913, "translate": "음악가" },
+    { "label": "Music artist", "score": 0.5794, "translate": "음악가" },
+    {
+      "label": "Fictional character",
+      "score": 0.5776,
+      "translate": "소설 속의 인물"
+    },
+    { "label": "Font", "score": 0.5767, "translate": "폰트" },
+    { "label": "Performance", "score": 0.567, "translate": "성능" },
+    { "label": "Magenta", "score": 0.5469, "translate": "마젠타" },
+    { "label": "Fun", "score": 0.5462, "translate": "재미있는" },
+    { "label": "Animation", "score": 0.533, "translate": "생기" },
+    { "label": "Public event", "score": 0.5248, "translate": "공개 이벤트" }
+  ],
+  "object": [
+    {
+      "name": "Person",
+      "score": 0.7875,
+      "bbox": [
+        [0.1132, 0.1638],
+        [0.4667, 0.1638],
+        [0.4667, 0.9956],
+        [0.1132, 0.9956]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Guitar",
+      "score": 0.7431,
+      "bbox": [
+        [0.2499, 0.3354],
+        [0.7286, 0.3354],
+        [0.7286, 0.7476],
+        [0.2499, 0.7476]
+      ],
+      "translate": "기타"
+    },
+    {
+      "name": "Animal",
+      "score": 0.6334,
+      "bbox": [
+        [0.1089, 0.1202],
+        [0.4709, 0.1202],
+        [0.4709, 0.9974],
+        [0.1089, 0.9974]
+      ],
+      "translate": "동물"
+    },
+    {
+      "name": "Furniture",
+      "score": 0.5002,
+      "bbox": [
+        [0.1043, 0.6744],
+        [0.3688, 0.6744],
+        [0.3688, 0.9974],
+        [0.1043, 0.9974]
+      ],
+      "translate": "가구"
+    }
+  ]
+}

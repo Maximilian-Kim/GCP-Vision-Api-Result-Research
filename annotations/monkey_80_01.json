@@ -1,0 +1,54 @@
+{
+  "label": [
+    { "label": "Art", "score": 0.8078, "translate": "미술" },
+    { "label": "Magenta", "score": 0.7316, "translate": "마젠타" },
+    { "label": "Font", "score": 0.7313, "translate": "폰트" },
+    { "label": "Event", "score": 0.7153, "translate": "이벤트" },
+    { "label": "Entertainment", "score": 0.6972, "translate": "오락" },
+    { "label": "Electric blue", "score": 0.6936, "translate": "강청색" },
+    { "label": "Fun", "score": 0.6501, "translate": "재미있는" },
+    { "label": "Visual arts", "score": 0.6439, "translate": "시각 예술" },
+    {
+      "label": "Display device",
+      "score": 0.6361,
+      "translate": "디스플레이 장치"
+    },
+    { "label": "Animation", "score": 0.6157, "translate": "생기" },
+    { "label": "Room", "score": 0.6036, "translate": "방" },
+    { "label": "Darkness", "score": 0.5989, "translate": "어둠" },
+    { "label": "Painting", "score": 0.5452, "translate": "페인트 등" },
+    {
+      "label": "Macro photography",
+      "score": 0.5208,
+      "translate": "매크로 사진"
+    },
+    { "label": "Graphics", "score": 0.5191, "translate": "제도법" },
+    { "label": "Performing arts", "score": 0.5188, "translate": "공연 예술" },
+    { "label": "Landscape", "score": 0.5176, "translate": "풍경" },
+    { "label": "Performance", "score": 0.5056, "translate": "성능" }
+  ],
+  "object": [
+    {
+      "name": "Animal",
+      "score": 0.7098,
+      "bbox": [
+        [0.0881, 0.1516],
+        [0.505, 0.1516],
+        [0.505, 0.9974],
+        [0.0881, 0.9974]
+      ],
+      "translate": "동물"
+    },
+    {
+      "name": "Insect",
+      "score": 0.5265,
+      "bbox": [
+        [0.0336, 0.0017],
+        [0.9974, 0.0017],
+        [0.9974, 0.9974],
+        [0.0336, 0.9974]
+      ],
+      "translate": "곤충"
+    }
+  ]
+}

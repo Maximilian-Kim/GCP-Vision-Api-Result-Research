@@ -1,0 +1,149 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.9779, "translate": "음식" },
+    { "label": "Tableware", "score": 0.9621, "translate": "식기" },
+    { "label": "Dishware", "score": 0.9341, "translate": "식기" },
+    { "label": "Ingredient", "score": 0.9071, "translate": "재료" },
+    { "label": "Fruit", "score": 0.8889, "translate": "과일" },
+    { "label": "Serveware", "score": 0.8754, "translate": "서브웨어" },
+    { "label": "Natural foods", "score": 0.8753, "translate": "자연 식품" },
+    { "label": "Drinkware", "score": 0.8708, "translate": "음료 용기" },
+    { "label": "Recipe", "score": 0.8619, "translate": "레시피" },
+    { "label": "Dish", "score": 0.8301, "translate": "접시" },
+    { "label": "Art", "score": 0.8295, "translate": "미술" },
+    { "label": "Cuisine", "score": 0.8235, "translate": "요리" },
+    { "label": "Porcelain", "score": 0.8073, "translate": "도자기" },
+    { "label": "Plate", "score": 0.7831, "translate": "그릇" },
+    { "label": "Superfood", "score": 0.7628, "translate": "슈퍼푸드" },
+    { "label": "Platter", "score": 0.7425, "translate": "플래터" },
+    { "label": "Produce", "score": 0.7397, "translate": "생산하다" },
+    { "label": "Painting", "score": 0.7342, "translate": "페인트 등" },
+    { "label": "Plant", "score": 0.7164, "translate": "식물" },
+    { "label": "Seedless fruit", "score": 0.7131, "translate": "씨 없는 과일" },
+    { "label": "Sweetness", "score": 0.713, "translate": "단맛" },
+    { "label": "Grape", "score": 0.6953, "translate": "포도" },
+    { "label": "Visual arts", "score": 0.6833, "translate": "시각 예술" },
+    { "label": "Local food", "score": 0.677, "translate": "현지 음식" },
+    {
+      "label": "Accessory fruit",
+      "score": 0.6727,
+      "translate": "액세서리 과일"
+    },
+    { "label": "Food group", "score": 0.6712, "translate": "식품군" },
+    { "label": "Apple", "score": 0.6694, "translate": "사과" },
+    {
+      "label": "Still life photography",
+      "score": 0.6568,
+      "translate": "정물 사진"
+    },
+    { "label": "Glass", "score": 0.6532, "translate": "유리" },
+    { "label": "Still life", "score": 0.6512, "translate": "정물" },
+    { "label": "Ceramic", "score": 0.6431, "translate": "세라믹" },
+    { "label": "Berry", "score": 0.6317, "translate": "말린 씨앗" },
+    { "label": "Pitcher", "score": 0.6256, "translate": "피처" },
+    { "label": "Strawberry", "score": 0.6247, "translate": "딸기" },
+    { "label": "Pottery", "score": 0.6235, "translate": "도기류" },
+    { "label": "Artwork", "score": 0.6195, "translate": "삽화" },
+    { "label": "Malus", "score": 0.5924, "translate": "말루스" },
+    { "label": "Jug", "score": 0.586, "translate": "조끼" },
+    { "label": "Table", "score": 0.5843, "translate": "테이블" },
+    { "label": "Floral design", "score": 0.5795, "translate": "플로랄 디자인" },
+    { "label": "Whole food", "score": 0.5774, "translate": "전체 식품" },
+    { "label": "Dinnerware set", "score": 0.5735, "translate": "식기 세트" },
+    { "label": "Rose family", "score": 0.5696, "translate": "장미 가족" },
+    {
+      "label": "Watercolor paint",
+      "score": 0.5619,
+      "translate": "수채화 물감"
+    },
+    { "label": "Illustration", "score": 0.5574, "translate": "삽화" },
+    { "label": "Cup", "score": 0.5489, "translate": "컵" },
+    { "label": "Meal", "score": 0.5472, "translate": "식사" },
+    {
+      "label": "Grapevine family",
+      "score": 0.5456,
+      "translate": "그레이프바인 가족"
+    },
+    { "label": "Tray", "score": 0.5424, "translate": "쟁반" },
+    { "label": "Bowl", "score": 0.5263, "translate": "그릇" }
+  ],
+  "object": [
+    {
+      "name": "Jug",
+      "score": 0.9396,
+      "bbox": [
+        [0.2839, 0.2337],
+        [0.6276, 0.2337],
+        [0.6276, 0.6673],
+        [0.2839, 0.6673]
+      ],
+      "translate": "조끼"
+    },
+    {
+      "name": "Pomegranate",
+      "score": 0.8922,
+      "bbox": [
+        [0.4505, 0.5928],
+        [0.6503, 0.5928],
+        [0.6503, 0.8762],
+        [0.4505, 0.8762]
+      ],
+      "translate": "석류"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.7313,
+      "bbox": [
+        [0.7894, 0.486],
+        [0.9575, 0.486],
+        [0.9575, 0.7673],
+        [0.7894, 0.7673]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.6879,
+      "bbox": [
+        [0.0654, 0.5355],
+        [0.3331, 0.5355],
+        [0.3331, 0.8462],
+        [0.0654, 0.8462]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Tableware",
+      "score": 0.5493,
+      "bbox": [
+        [0.2844, 0.2454],
+        [0.6193, 0.2454],
+        [0.6193, 0.6767],
+        [0.2844, 0.6767]
+      ],
+      "translate": "식기"
+    },
+    {
+      "name": "Food",
+      "score": 0.5237,
+      "bbox": [
+        [0.6211, 0.5529],
+        [0.8562, 0.5529],
+        [0.8562, 0.8835],
+        [0.6211, 0.8835]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.523,
+      "bbox": [
+        [0.6799, 0.4189],
+        [0.8323, 0.4189],
+        [0.8323, 0.5993],
+        [0.6799, 0.5993]
+      ],
+      "translate": "과일"
+    }
+  ]
+}

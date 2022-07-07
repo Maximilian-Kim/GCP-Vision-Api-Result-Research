@@ -1,0 +1,157 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.9842, "translate": "음식" },
+    { "label": "Ingredient", "score": 0.8986, "translate": "재료" },
+    { "label": "Recipe", "score": 0.8747, "translate": "레시피" },
+    { "label": "Leaf vegetable", "score": 0.8407, "translate": "잎채소" },
+    { "label": "Cuisine", "score": 0.8132, "translate": "요리" },
+    { "label": "Dish", "score": 0.8118, "translate": "접시" },
+    { "label": "Fines herbes", "score": 0.7628, "translate": "파인 허브" },
+    { "label": "Vegetable", "score": 0.7576, "translate": "채소" },
+    { "label": "Staple food", "score": 0.7565, "translate": "상식" },
+    { "label": "Produce", "score": 0.7466, "translate": "생산하다" },
+    { "label": "Food group", "score": 0.7036, "translate": "식품군" },
+    { "label": "Natural foods", "score": 0.6676, "translate": "자연 식품" },
+    { "label": "Grass", "score": 0.6418, "translate": "잔디" },
+    { "label": "Tableware", "score": 0.6348, "translate": "식기" },
+    {
+      "label": "Cruciferous vegetables",
+      "score": 0.6318,
+      "translate": "십자화과 야채"
+    },
+    { "label": "Vegan nutrition", "score": 0.6315, "translate": "비건 영양" },
+    { "label": "Superfood", "score": 0.6233, "translate": "슈퍼푸드" },
+    { "label": "Garden", "score": 0.6229, "translate": "정원" },
+    { "label": "Herb", "score": 0.5869, "translate": "목초" },
+    { "label": "Meal", "score": 0.5802, "translate": "식사" },
+    { "label": "Plant", "score": 0.5729, "translate": "식물" },
+    { "label": "Annual plant", "score": 0.5609, "translate": "연간 공장" },
+    { "label": "Comfort food", "score": 0.5414, "translate": "컴포트 푸드" },
+    { "label": "Sharing", "score": 0.5364, "translate": "나누는" },
+    { "label": "Magenta", "score": 0.5243, "translate": "마젠타" },
+    { "label": "Side dish", "score": 0.5178, "translate": "반찬" }
+  ],
+  "object": [
+    {
+      "name": "Vegetable",
+      "score": 0.7923,
+      "bbox": [
+        [0.2074, 0.1533],
+        [0.6321, 0.1533],
+        [0.6321, 0.8473],
+        [0.2074, 0.8473]
+      ],
+      "translate": "채소"
+    },
+    {
+      "name": "Food",
+      "score": 0.739,
+      "bbox": [
+        [0.7187, 0.4665],
+        [0.9201, 0.4665],
+        [0.9201, 0.7642],
+        [0.7187, 0.7642]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.7128,
+      "bbox": [
+        [0.002, 0.1753],
+        [0.1765, 0.1753],
+        [0.1765, 0.4585],
+        [0.002, 0.4585]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.7106,
+      "bbox": [
+        [0.7876, 0.7695],
+        [0.9142, 0.7695],
+        [0.9142, 0.9706],
+        [0.7876, 0.9706]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.6984,
+      "bbox": [
+        [0.7483, 0.1018],
+        [0.8731, 0.1018],
+        [0.8731, 0.2915],
+        [0.7483, 0.2915]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.6954,
+      "bbox": [
+        [0.1659, 0.0243],
+        [0.2947, 0.0243],
+        [0.2947, 0.2123],
+        [0.1659, 0.2123]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.6951,
+      "bbox": [
+        [0.2661, 0.8478],
+        [0.4122, 0.8478],
+        [0.4122, 0.996],
+        [0.2661, 0.996]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.6895,
+      "bbox": [
+        [0.5763, 0.7332],
+        [0.75, 0.7332],
+        [0.75, 0.986],
+        [0.5763, 0.986]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.6856,
+      "bbox": [
+        [0.0227, 0.5015],
+        [0.1765, 0.5015],
+        [0.1765, 0.7352],
+        [0.0227, 0.7352]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.6806,
+      "bbox": [
+        [0.6917, 0.2705],
+        [0.8494, 0.2705],
+        [0.8494, 0.4931],
+        [0.6917, 0.4931]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.6676,
+      "bbox": [
+        [0.901, 0.3957],
+        [0.9959, 0.3957],
+        [0.9959, 0.6024],
+        [0.901, 0.6024]
+      ],
+      "translate": "음식"
+    }
+  ]
+}

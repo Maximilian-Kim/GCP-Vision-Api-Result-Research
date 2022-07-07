@@ -1,0 +1,36 @@
+{
+  "label": [
+    { "label": "Bird", "score": 0.9654, "translate": "새" },
+    { "label": "Owl", "score": 0.891, "translate": "올빼미" },
+    { "label": "Beak", "score": 0.8803, "translate": "부리" },
+    { "label": "Wood", "score": 0.8649, "translate": "목재" },
+    { "label": "Screech owl", "score": 0.7948, "translate": "부엉이 올빼미" },
+    { "label": "Terrestrial animal", "score": 0.776, "translate": "육상 동물" },
+    { "label": "Trunk", "score": 0.7689, "translate": "트렁크" },
+    { "label": "Bird of prey", "score": 0.6767, "translate": "맹금" },
+    { "label": "Wildlife", "score": 0.6058, "translate": "야생 동물" },
+    { "label": "Plant", "score": 0.5964, "translate": "식물" },
+    {
+      "label": "Eastern Screech owl",
+      "score": 0.5818,
+      "translate": "동부 부엉이 올빼미"
+    },
+    { "label": "Art", "score": 0.5601, "translate": "미술" },
+    { "label": "Feather", "score": 0.5511, "translate": "깃털" },
+    { "label": "Tree", "score": 0.5349, "translate": "나무" },
+    { "label": "Great horned owl", "score": 0.5199, "translate": "큰부엉이" }
+  ],
+  "object": [
+    {
+      "name": "Owl",
+      "score": 0.881,
+      "bbox": [
+        [0.2096, 0.16],
+        [0.4822, 0.16],
+        [0.4822, 0.9653],
+        [0.2096, 0.9653]
+      ],
+      "translate": "올빼미"
+    }
+  ]
+}

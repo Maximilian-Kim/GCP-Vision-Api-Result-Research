@@ -1,0 +1,119 @@
+{
+  "label": [
+    { "label": "Wheel", "score": 0.9773, "translate": "바퀴" },
+    { "label": "Tire", "score": 0.974, "translate": "타이어" },
+    { "label": "Vehicle", "score": 0.9624, "translate": "차량" },
+    { "label": "Motor vehicle", "score": 0.9114, "translate": "자동차" },
+    { "label": "Asphalt", "score": 0.8613, "translate": "아스팔트" },
+    { "label": "Sky", "score": 0.8541, "translate": "하늘" },
+    { "label": "Car", "score": 0.8469, "translate": "자동차" },
+    { "label": "Rickshaw", "score": 0.8437, "translate": "인력거" },
+    { "label": "Travel", "score": 0.8213, "translate": "여행하다" },
+    {
+      "label": "Automotive tire",
+      "score": 0.8203,
+      "translate": "자동차 타이어"
+    },
+    { "label": "Road", "score": 0.7821, "translate": "도로" },
+    { "label": "Motorcycle", "score": 0.7641, "translate": "오토바이" },
+    {
+      "label": "Automotive wheel system",
+      "score": 0.7638,
+      "translate": "자동차 휠 시스템"
+    },
+    { "label": "Motorcycling", "score": 0.7553, "translate": "오토바이 타기" },
+    { "label": "Auto part", "score": 0.7306, "translate": "자동차 부품" },
+    {
+      "label": "Automotive exterior",
+      "score": 0.7219,
+      "translate": "자동차 외장"
+    },
+    { "label": "Classic", "score": 0.6953, "translate": "권위 있는" },
+    { "label": "Event", "score": 0.6863, "translate": "이벤트" },
+    { "label": "Street", "score": 0.6855, "translate": "거리" },
+    { "label": "Traffic", "score": 0.6536, "translate": "교통" },
+    {
+      "label": "Commercial vehicle",
+      "score": 0.6327,
+      "translate": "상업용 차량"
+    },
+    { "label": "Tree", "score": 0.6039, "translate": "나무" },
+    { "label": "Passenger", "score": 0.5956, "translate": "승객" },
+    { "label": "Antique car", "score": 0.5955, "translate": "골동품 자동차" },
+    { "label": "Helmet", "score": 0.5942, "translate": "헬멧" },
+    { "label": "Transport", "score": 0.5605, "translate": "수송" },
+    { "label": "Tourism", "score": 0.5586, "translate": "관광 여행" },
+    {
+      "label": "Traffic congestion",
+      "score": 0.5387,
+      "translate": "교통 혼잡"
+    },
+    {
+      "label": "Personal protective equipment",
+      "score": 0.5344,
+      "translate": "개인 보호 장비"
+    },
+    { "label": "Pedestrian", "score": 0.5202, "translate": "보행자" },
+    { "label": "Vintage car", "score": 0.5152, "translate": "빈티지 자동차" },
+    { "label": "Classic car", "score": 0.5141, "translate": "클래식 카" },
+    { "label": "Public transport", "score": 0.5097, "translate": "대중 교통" },
+    { "label": "Family car", "score": 0.5088, "translate": "패밀리카" }
+  ],
+  "object": [
+    {
+      "name": "Person",
+      "score": 0.679,
+      "bbox": [
+        [0.5277, 0.1472],
+        [0.6704, 0.1472],
+        [0.6704, 0.8351],
+        [0.5277, 0.8351]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Bus",
+      "score": 0.6761,
+      "bbox": [
+        [0.0004, 0.1696],
+        [0.1818, 0.1696],
+        [0.1818, 0.5412],
+        [0.0004, 0.5412]
+      ],
+      "translate": "버스"
+    },
+    {
+      "name": "Person",
+      "score": 0.6661,
+      "bbox": [
+        [0.0316, 0.3313],
+        [0.1024, 0.3313],
+        [0.1024, 0.572],
+        [0.0316, 0.572]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Person",
+      "score": 0.6504,
+      "bbox": [
+        [0.6666, 0.2968],
+        [0.7334, 0.2968],
+        [0.7334, 0.5516],
+        [0.6666, 0.5516]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Person",
+      "score": 0.6353,
+      "bbox": [
+        [0.5094, 0.2693],
+        [0.6197, 0.2693],
+        [0.6197, 0.8308],
+        [0.5094, 0.8308]
+      ],
+      "translate": "사람"
+    }
+  ]
+}

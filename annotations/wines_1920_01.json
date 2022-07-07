@@ -1,0 +1,147 @@
+{
+  "label": [
+    { "label": "Tableware", "score": 0.9622, "translate": "식기" },
+    { "label": "Drinkware", "score": 0.9473, "translate": "음료 용기" },
+    { "label": "Stemware", "score": 0.9432, "translate": "스템웨어" },
+    { "label": "Plant", "score": 0.9397, "translate": "식물" },
+    { "label": "Wine", "score": 0.9055, "translate": "와인" },
+    { "label": "Wine glass", "score": 0.8998, "translate": "와인 잔" },
+    { "label": "Barware", "score": 0.8815, "translate": "바웨어" },
+    { "label": "Drink", "score": 0.8609, "translate": "마시다" },
+    { "label": "Wood", "score": 0.8477, "translate": "목재" },
+    {
+      "label": "Alcoholic beverage",
+      "score": 0.84,
+      "translate": "알코올 음료"
+    },
+    {
+      "label": "Champagne stemware",
+      "score": 0.8319,
+      "translate": "샴페인 잔"
+    },
+    { "label": "Glass bottle", "score": 0.8308, "translate": "유리 병" },
+    { "label": "Table", "score": 0.8215, "translate": "테이블" },
+    { "label": "Grass", "score": 0.8183, "translate": "잔디" },
+    { "label": "Dessert wine", "score": 0.793, "translate": "디저트 와인" },
+    { "label": "White wine", "score": 0.7905, "translate": "백포도주" },
+    { "label": "Serveware", "score": 0.7836, "translate": "서브웨어" },
+    { "label": "Wine bottle", "score": 0.7639, "translate": "와인 병" },
+    { "label": "Alcohol", "score": 0.7532, "translate": "술" },
+    { "label": "Glass", "score": 0.7442, "translate": "유리" },
+    { "label": "Leaf vegetable", "score": 0.7342, "translate": "잎채소" },
+    { "label": "Food", "score": 0.7166, "translate": "음식" },
+    { "label": "Distilled beverage", "score": 0.7137, "translate": "증류수" },
+    { "label": "Event", "score": 0.7044, "translate": "이벤트" },
+    { "label": "Natural foods", "score": 0.701, "translate": "자연 식품" },
+    { "label": "Snifter", "score": 0.6962, "translate": "브랜디 술잔" },
+    { "label": "Fruit", "score": 0.695, "translate": "과일" },
+    { "label": "Hardwood", "score": 0.6703, "translate": "견목" },
+    { "label": "Grape", "score": 0.6627, "translate": "포도" },
+    { "label": "Wine tasting", "score": 0.6488, "translate": "와인 시음" },
+    { "label": "Art", "score": 0.6384, "translate": "미술" },
+    { "label": "Ingredient", "score": 0.6309, "translate": "재료" },
+    { "label": "Champagne", "score": 0.6288, "translate": "샴페인" },
+    {
+      "label": "Still life photography",
+      "score": 0.6202,
+      "translate": "정물 사진"
+    },
+    { "label": "Floral design", "score": 0.6197, "translate": "플로랄 디자인" },
+    { "label": "Liqueur", "score": 0.6127, "translate": "리큐어" },
+    { "label": "Still life", "score": 0.6103, "translate": "정물" },
+    { "label": "Red wine", "score": 0.5951, "translate": "적포도주" },
+    {
+      "label": "Grapevine family",
+      "score": 0.5849,
+      "translate": "그레이프바인 가족"
+    },
+    { "label": "Flooring", "score": 0.5799, "translate": "바닥" },
+    { "label": "Herb", "score": 0.5734, "translate": "목초" },
+    { "label": "Seedless fruit", "score": 0.5657, "translate": "씨 없는 과일" },
+    { "label": "Metal", "score": 0.5643, "translate": "금속" },
+    { "label": "Superfood", "score": 0.563, "translate": "슈퍼푸드" },
+    { "label": "Vitis", "score": 0.5528, "translate": "비티스" },
+    { "label": "Produce", "score": 0.551, "translate": "생산하다" },
+    { "label": "Flower Arranging", "score": 0.5503, "translate": "꽃꽂이" },
+    { "label": "Plate", "score": 0.5062, "translate": "그릇" }
+  ],
+  "object": [
+    {
+      "name": "Wine glass",
+      "score": 0.7513,
+      "bbox": [
+        [0.3913, 0.1797],
+        [0.5933, 0.1797],
+        [0.5933, 0.9895],
+        [0.3913, 0.9895]
+      ],
+      "translate": "와인 잔"
+    },
+    {
+      "name": "Wine glass",
+      "score": 0.6395,
+      "bbox": [
+        [0.5587, 0.0645],
+        [0.7437, 0.0645],
+        [0.7437, 0.8111],
+        [0.5587, 0.8111]
+      ],
+      "translate": "와인 잔"
+    },
+    {
+      "name": "Packaged goods",
+      "score": 0.6116,
+      "bbox": [
+        [0.4864, 0.0016],
+        [0.6444, 0.0016],
+        [0.6444, 0.31],
+        [0.4864, 0.31]
+      ],
+      "translate": "포장 상품"
+    },
+    {
+      "name": "Barrel",
+      "score": 0.5854,
+      "bbox": [
+        [0.6102, 0.0026],
+        [0.9937, 0.0026],
+        [0.9937, 0.4351],
+        [0.6102, 0.4351]
+      ],
+      "translate": "통"
+    },
+    {
+      "name": "Tableware",
+      "score": 0.5668,
+      "bbox": [
+        [0.3448, 0.2124],
+        [0.5973, 0.2124],
+        [0.5973, 0.9411],
+        [0.3448, 0.9411]
+      ],
+      "translate": "식기"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.5219,
+      "bbox": [
+        [0.1097, 0.4129],
+        [0.4063, 0.4129],
+        [0.4063, 0.7213],
+        [0.1097, 0.7213]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Food",
+      "score": 0.5018,
+      "bbox": [
+        [0.1011, 0.2916],
+        [0.4497, 0.2916],
+        [0.4497, 0.7566],
+        [0.1011, 0.7566]
+      ],
+      "translate": "음식"
+    }
+  ]
+}

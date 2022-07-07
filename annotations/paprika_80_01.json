@@ -1,0 +1,109 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.9814, "translate": "음식" },
+    { "label": "Plant", "score": 0.916, "translate": "식물" },
+    { "label": "Recipe", "score": 0.8695, "translate": "레시피" },
+    { "label": "Ingredient", "score": 0.8679, "translate": "재료" },
+    { "label": "Natural foods", "score": 0.8371, "translate": "자연 식품" },
+    { "label": "Leaf vegetable", "score": 0.8034, "translate": "잎채소" },
+    { "label": "Flowerpot", "score": 0.7997, "translate": "화분" },
+    { "label": "Terrestrial plant", "score": 0.7985, "translate": "육상 식물" },
+    { "label": "Cuisine", "score": 0.7966, "translate": "요리" },
+    { "label": "Vegetable", "score": 0.7794, "translate": "채소" },
+    { "label": "Sharing", "score": 0.7553, "translate": "나누는" },
+    { "label": "Dish", "score": 0.7473, "translate": "접시" },
+    { "label": "Salad", "score": 0.7458, "translate": "샐러드" },
+    { "label": "Produce", "score": 0.7357, "translate": "생산하다" },
+    { "label": "Garnish", "score": 0.7341, "translate": "고명" },
+    { "label": "Food group", "score": 0.719, "translate": "식품군" },
+    { "label": "Finger food", "score": 0.717, "translate": "손가락 음식" },
+    { "label": "Superfood", "score": 0.7063, "translate": "슈퍼푸드" },
+    {
+      "label": "Flowering plant",
+      "score": 0.6962,
+      "translate": "꽃 피는 식물"
+    },
+    { "label": "Tomato", "score": 0.6788, "translate": "토마토" },
+    { "label": "Fruit", "score": 0.6642, "translate": "과일" },
+    { "label": "Comfort food", "score": 0.6556, "translate": "컴포트 푸드" },
+    { "label": "Event", "score": 0.6522, "translate": "이벤트" },
+    { "label": "Bush tomato", "score": 0.6469, "translate": "부시 토마토" },
+    { "label": "Vegan nutrition", "score": 0.6295, "translate": "비건 영양" },
+    { "label": "Whole food", "score": 0.6222, "translate": "전체 식품" },
+    { "label": "Cherry Tomatoes", "score": 0.6215, "translate": "방울 토마토" },
+    {
+      "label": "Nightshade family",
+      "score": 0.5889,
+      "translate": "밤나무 가족"
+    },
+    { "label": "Local food", "score": 0.5728, "translate": "현지 음식" },
+    { "label": "Plum tomato", "score": 0.568, "translate": "매실 토마토" },
+    { "label": "Art", "score": 0.5654, "translate": "미술" },
+    { "label": "Herb", "score": 0.5499, "translate": "목초" },
+    { "label": "Japanese cuisine", "score": 0.537, "translate": "일본 요리" },
+    { "label": "Grass", "score": 0.5347, "translate": "잔디" },
+    { "label": "Meal", "score": 0.5328, "translate": "식사" },
+    { "label": "Side dish", "score": 0.5286, "translate": "반찬" },
+    { "label": "Jungle", "score": 0.5048, "translate": "밀림" },
+    { "label": "À la carte food", "score": 0.5046, "translate": "일품요리" },
+    { "label": "Still life", "score": 0.5031, "translate": "정물" },
+    { "label": "Solanum", "score": 0.5013, "translate": "솔라넘" }
+  ],
+  "object": [
+    {
+      "name": "Bell pepper",
+      "score": 0.8182,
+      "bbox": [
+        [0.3657, 0.4025],
+        [0.7221, 0.4025],
+        [0.7221, 0.8962],
+        [0.3657, 0.8962]
+      ],
+      "translate": "피망"
+    },
+    {
+      "name": "Lemon",
+      "score": 0.6885,
+      "bbox": [
+        [0.0383, 0.2561],
+        [0.3866, 0.2561],
+        [0.3866, 0.6951],
+        [0.0383, 0.6951]
+      ],
+      "translate": "레몬"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.6672,
+      "bbox": [
+        [0.6943, 0.0218],
+        [0.9974, 0.0218],
+        [0.9974, 0.3697],
+        [0.6943, 0.3697]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Food",
+      "score": 0.6442,
+      "bbox": [
+        [0.5749, 0.1447],
+        [0.9194, 0.1447],
+        [0.9194, 0.6205],
+        [0.5749, 0.6205]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.5077,
+      "bbox": [
+        [0.0001, 0.6046],
+        [0.3839, 0.6046],
+        [0.3839, 0.9953],
+        [0.0001, 0.9953]
+      ],
+      "translate": "음식"
+    }
+  ]
+}

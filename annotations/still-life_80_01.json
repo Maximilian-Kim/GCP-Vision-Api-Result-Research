@@ -1,0 +1,62 @@
+{
+  "label": [
+    { "label": "Flower", "score": 0.9425, "translate": "꽃" },
+    { "label": "Plant", "score": 0.8966, "translate": "식물" },
+    { "label": "Petal", "score": 0.8883, "translate": "꽃잎" },
+    { "label": "Art", "score": 0.7491, "translate": "미술" },
+    { "label": "Grass", "score": 0.7375, "translate": "잔디" },
+    { "label": "Landscape", "score": 0.6953, "translate": "풍경" },
+    { "label": "Natural landscape", "score": 0.6903, "translate": "자연 경관" },
+    { "label": "Event", "score": 0.6843, "translate": "이벤트" },
+    { "label": "Shrub", "score": 0.6693, "translate": "관목" },
+    {
+      "label": "Flowering plant",
+      "score": 0.6668,
+      "translate": "꽃 피는 식물"
+    },
+    { "label": "Font", "score": 0.6563, "translate": "폰트" },
+    { "label": "Annual plant", "score": 0.6392, "translate": "연간 공장" },
+    { "label": "Fruit", "score": 0.6375, "translate": "과일" },
+    { "label": "Magenta", "score": 0.6275, "translate": "마젠타" },
+    { "label": "Soil", "score": 0.6102, "translate": "토양" },
+    { "label": "Rose", "score": 0.6061, "translate": "장미" },
+    {
+      "label": "Macro photography",
+      "score": 0.5985,
+      "translate": "매크로 사진"
+    },
+    { "label": "Rose order", "score": 0.5741, "translate": "장미 주문" },
+    {
+      "label": "Still life photography",
+      "score": 0.5723,
+      "translate": "정물 사진"
+    },
+    { "label": "Ingredient", "score": 0.5585, "translate": "재료" },
+    { "label": "Rose family", "score": 0.5287, "translate": "장미 가족" },
+    { "label": "Food", "score": 0.5137, "translate": "음식" }
+  ],
+  "object": [
+    {
+      "name": "Animal",
+      "score": 0.5803,
+      "bbox": [
+        [0.278, 0.2235],
+        [0.638, 0.2235],
+        [0.638, 0.6832],
+        [0.278, 0.6832]
+      ],
+      "translate": "동물"
+    },
+    {
+      "name": "Food",
+      "score": 0.5473,
+      "bbox": [
+        [0.0322, 0.1721],
+        [0.9715, 0.1721],
+        [0.9715, 0.8299],
+        [0.0322, 0.8299]
+      ],
+      "translate": "음식"
+    }
+  ]
+}

@@ -1,0 +1,229 @@
+{
+  "label": [
+    { "label": "Clothing", "score": 0.9864, "translate": "의류" },
+    { "label": "Footwear", "score": 0.9838, "translate": "신발류" },
+    { "label": "Shoe", "score": 0.9671, "translate": "구두" },
+    { "label": "Daytime", "score": 0.9454, "translate": "낮" },
+    { "label": "Photograph", "score": 0.9414, "translate": "사진" },
+    { "label": "Leg", "score": 0.9324, "translate": "다리" },
+    { "label": "White", "score": 0.9219, "translate": "하얀색" },
+    { "label": "Light", "score": 0.911, "translate": "빛" },
+    { "label": "Human", "score": 0.8998, "translate": "인간" },
+    { "label": "Shorts", "score": 0.8889, "translate": "반바지" },
+    { "label": "Infrastructure", "score": 0.8881, "translate": "하부 구조" },
+    {
+      "label": "Street fashion",
+      "score": 0.8866,
+      "translate": "스트리트 패션"
+    },
+    { "label": "Fashion", "score": 0.8812, "translate": "패션" },
+    { "label": "Temple", "score": 0.8769, "translate": "절" },
+    { "label": "Happy", "score": 0.8659, "translate": "행복하다" },
+    { "label": "Standing", "score": 0.8642, "translate": "서 있는" },
+    { "label": "Architecture", "score": 0.8554, "translate": "건축물" },
+    { "label": "Sunlight", "score": 0.8542, "translate": "햇빛" },
+    { "label": "Yellow", "score": 0.8492, "translate": "노란색" },
+    { "label": "Travel", "score": 0.8461, "translate": "여행하다" },
+    { "label": "Dress", "score": 0.842, "translate": "드레스" },
+    { "label": "Style", "score": 0.8393, "translate": "스타일" },
+    { "label": "Leisure", "score": 0.8273, "translate": "여가" },
+    { "label": "Morning", "score": 0.8137, "translate": "아침" },
+    { "label": "Fun", "score": 0.8037, "translate": "재미있는" },
+    { "label": "Summer", "score": 0.79, "translate": "여름" },
+    { "label": "City", "score": 0.7897, "translate": "도시" },
+    {
+      "label": "Luggage and bags",
+      "score": 0.7727,
+      "translate": "수하물 및 가방"
+    },
+    { "label": "Road", "score": 0.7723, "translate": "도로" },
+    { "label": "Entertainment", "score": 0.7581, "translate": "오락" },
+    { "label": "Sidewalk", "score": 0.7551, "translate": "보도" },
+    { "label": "Human leg", "score": 0.7457, "translate": "인간의 다리" },
+    { "label": "Snapshot", "score": 0.7428, "translate": "스냅 사진" },
+    { "label": "Urban area", "score": 0.7416, "translate": "도시 지역" },
+    { "label": "Pedestrian", "score": 0.7298, "translate": "보행자" },
+    { "label": "Event", "score": 0.7219, "translate": "이벤트" },
+    { "label": "Bag", "score": 0.7205, "translate": "가방" },
+    { "label": "Street", "score": 0.7107, "translate": "거리" },
+    { "label": "Walking", "score": 0.6959, "translate": "걷는" },
+    { "label": "Companion dog", "score": 0.6954, "translate": "반려견" },
+    { "label": "Tourism", "score": 0.6921, "translate": "관광 여행" },
+    { "label": "Handbag", "score": 0.6904, "translate": "핸드백" },
+    { "label": "Performance art", "score": 0.6865, "translate": "행위 예술" },
+    { "label": "Child", "score": 0.6825, "translate": "어린이" },
+    { "label": "Sandal", "score": 0.6624, "translate": "샌들" },
+    { "label": "Town", "score": 0.6519, "translate": "도시" },
+    { "label": "Recreation", "score": 0.6519, "translate": "휴양" },
+    { "label": "Sitting", "score": 0.6478, "translate": "좌석" },
+    { "label": "Vacation", "score": 0.6459, "translate": "휴가" },
+    { "label": "Boot", "score": 0.6437, "translate": "신병" }
+  ],
+  "object": [
+    {
+      "name": "Dress",
+      "score": 0.9321,
+      "bbox": [
+        [0.1602, 0.2574],
+        [0.2982, 0.2574],
+        [0.2982, 0.6389],
+        [0.1602, 0.6389]
+      ],
+      "translate": "드레스"
+    },
+    {
+      "name": "Shorts",
+      "score": 0.9313,
+      "bbox": [
+        [0.7062, 0.4628],
+        [0.8233, 0.4628],
+        [0.8233, 0.6142],
+        [0.7062, 0.6142]
+      ],
+      "translate": "반바지"
+    },
+    {
+      "name": "Dog",
+      "score": 0.8922,
+      "bbox": [
+        [0.4094, 0.6848],
+        [0.4869, 0.6848],
+        [0.4869, 0.8996],
+        [0.4094, 0.8996]
+      ],
+      "translate": "개"
+    },
+    {
+      "name": "Person",
+      "score": 0.874,
+      "bbox": [
+        [0.0396, 0.139],
+        [0.3298, 0.139],
+        [0.3298, 0.8951],
+        [0.0396, 0.8951]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Person",
+      "score": 0.8708,
+      "bbox": [
+        [0.3523, 0.4225],
+        [0.4578, 0.4225],
+        [0.4578, 0.7933],
+        [0.3523, 0.7933]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Person",
+      "score": 0.859,
+      "bbox": [
+        [0.7481, 0.2004],
+        [0.9754, 0.2004],
+        [0.9754, 0.9071],
+        [0.7481, 0.9071]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Luggage & bags",
+      "score": 0.8585,
+      "bbox": [
+        [0.6712, 0.3277],
+        [0.7624, 0.3277],
+        [0.7624, 0.5142],
+        [0.6712, 0.5142]
+      ],
+      "translate": "수하물 및 가방"
+    },
+    {
+      "name": "Person",
+      "score": 0.8136,
+      "bbox": [
+        [0.6709, 0.1902],
+        [0.9097, 0.1902],
+        [0.9097, 0.9352],
+        [0.6709, 0.9352]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Shoe",
+      "score": 0.7645,
+      "bbox": [
+        [0.6762, 0.8661],
+        [0.7889, 0.8661],
+        [0.7889, 0.9458],
+        [0.6762, 0.9458]
+      ],
+      "translate": "구두"
+    },
+    {
+      "name": "Luggage & bags",
+      "score": 0.6918,
+      "bbox": [
+        [0.8511, 0.3366],
+        [0.9254, 0.3366],
+        [0.9254, 0.5649],
+        [0.8511, 0.5649]
+      ],
+      "translate": "수하물 및 가방"
+    },
+    {
+      "name": "Top",
+      "score": 0.6613,
+      "bbox": [
+        [0.7197, 0.2856],
+        [0.8082, 0.2856],
+        [0.8082, 0.4762],
+        [0.7197, 0.4762]
+      ],
+      "translate": "맨 위"
+    },
+    {
+      "name": "Luggage & bags",
+      "score": 0.6207,
+      "bbox": [
+        [0.8966, 0.3414],
+        [0.9665, 0.3414],
+        [0.9665, 0.5565],
+        [0.8966, 0.5565]
+      ],
+      "translate": "수하물 및 가방"
+    },
+    {
+      "name": "Tire",
+      "score": 0.5713,
+      "bbox": [
+        [0.016, 0.6294],
+        [0.0963, 0.6294],
+        [0.0963, 0.7627],
+        [0.016, 0.7627]
+      ],
+      "translate": "타이어"
+    },
+    {
+      "name": "Top",
+      "score": 0.5587,
+      "bbox": [
+        [0.7866, 0.2944],
+        [0.8585, 0.2944],
+        [0.8585, 0.5003],
+        [0.7866, 0.5003]
+      ],
+      "translate": "맨 위"
+    },
+    {
+      "name": "Pants",
+      "score": 0.5477,
+      "bbox": [
+        [0.7925, 0.2678],
+        [0.948, 0.2678],
+        [0.948, 0.8908],
+        [0.7925, 0.8908]
+      ],
+      "translate": "바지"
+    }
+  ]
+}

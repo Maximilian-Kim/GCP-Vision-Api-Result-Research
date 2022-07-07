@@ -1,0 +1,114 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.9854, "translate": "음식" },
+    { "label": "Tableware", "score": 0.9562, "translate": "식기" },
+    { "label": "Banana", "score": 0.9482, "translate": "바나나" },
+    { "label": "Saba banana", "score": 0.9131, "translate": "사바 바나나" },
+    { "label": "Fruit", "score": 0.9126, "translate": "과일" },
+    { "label": "Plant", "score": 0.9056, "translate": "식물" },
+    { "label": "Natural foods", "score": 0.9018, "translate": "자연 식품" },
+    { "label": "Seedless fruit", "score": 0.8942, "translate": "씨 없는 과일" },
+    { "label": "Ingredient", "score": 0.8897, "translate": "재료" },
+    {
+      "label": "Cooking plantain",
+      "score": 0.8823,
+      "translate": "질경이 요리"
+    },
+    { "label": "Grape", "score": 0.8784, "translate": "포도" },
+    { "label": "Matoke", "score": 0.8754, "translate": "마토케" },
+    { "label": "Recipe", "score": 0.854, "translate": "레시피" },
+    { "label": "Citrus", "score": 0.8386, "translate": "감귤류" },
+    { "label": "Whole food", "score": 0.8097, "translate": "전체 식품" },
+    { "label": "Cuisine", "score": 0.805, "translate": "요리" },
+    { "label": "Superfood", "score": 0.8049, "translate": "슈퍼푸드" },
+    { "label": "Produce", "score": 0.8034, "translate": "생산하다" },
+    { "label": "Food group", "score": 0.8008, "translate": "식품군" },
+    { "label": "Berry", "score": 0.7923, "translate": "말린 씨앗" },
+    { "label": "Local food", "score": 0.7808, "translate": "현지 음식" },
+    { "label": "Banana family", "score": 0.7439, "translate": "바나나 가족" },
+    {
+      "label": "Grapevine family",
+      "score": 0.7334,
+      "translate": "그레이프바인 가족"
+    },
+    { "label": "Citric acid", "score": 0.7197, "translate": "구연산" },
+    { "label": "Orange", "score": 0.7126, "translate": "주황색" },
+    { "label": "Sweetness", "score": 0.6888, "translate": "단맛" },
+    { "label": "Vegan nutrition", "score": 0.6884, "translate": "비건 영양" },
+    {
+      "label": "Accessory fruit",
+      "score": 0.6793,
+      "translate": "액세서리 과일"
+    },
+    { "label": "Garnish", "score": 0.6774, "translate": "고명" },
+    { "label": "Serveware", "score": 0.6745, "translate": "서브웨어" },
+    { "label": "Plate", "score": 0.6699, "translate": "그릇" },
+    { "label": "Platter", "score": 0.6518, "translate": "플래터" },
+    {
+      "label": "Flowering plant",
+      "score": 0.6344,
+      "translate": "꽃 피는 식물"
+    },
+    { "label": "Nutraceutical", "score": 0.6301, "translate": "기능식품" },
+    { "label": "Bowl", "score": 0.6288, "translate": "그릇" },
+    {
+      "label": "Still life photography",
+      "score": 0.6266,
+      "translate": "정물 사진"
+    },
+    { "label": "Vitis", "score": 0.6259, "translate": "비티스" },
+    { "label": "Finger food", "score": 0.6184, "translate": "손가락 음식" },
+    { "label": "Still life", "score": 0.6065, "translate": "정물" },
+    { "label": "Dish", "score": 0.606, "translate": "접시" },
+    { "label": "Delicacy", "score": 0.6057, "translate": "섬세" },
+    { "label": "Tangerine", "score": 0.5934, "translate": "귤" },
+    { "label": "Olive family", "score": 0.5854, "translate": "올리브 가족" },
+    { "label": "Kiwifruit", "score": 0.5131, "translate": "키위 과일" }
+  ],
+  "object": [
+    {
+      "name": "Flower",
+      "score": 0.7967,
+      "bbox": [
+        [0.6441, 0.0007],
+        [0.7549, 0.0007],
+        [0.7549, 0.1519],
+        [0.6441, 0.1519]
+      ],
+      "translate": "꽃"
+    },
+    {
+      "name": "Banana",
+      "score": 0.5751,
+      "bbox": [
+        [0.2232, 0.1953],
+        [0.7346, 0.1953],
+        [0.7346, 0.4082],
+        [0.2232, 0.4082]
+      ],
+      "translate": "바나나"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.5741,
+      "bbox": [
+        [0.2158, 0.414],
+        [0.3874, 0.414],
+        [0.3874, 0.6147],
+        [0.2158, 0.6147]
+      ],
+      "translate": "과일"
+    },
+    {
+      "name": "Fruit",
+      "score": 0.5007,
+      "bbox": [
+        [0.8013, 0.4138],
+        [0.9204, 0.4138],
+        [0.9204, 0.5745],
+        [0.8013, 0.5745]
+      ],
+      "translate": "과일"
+    }
+  ]
+}

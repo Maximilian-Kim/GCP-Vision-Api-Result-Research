@@ -1,0 +1,118 @@
+{
+  "label": [
+    { "label": "Penguin", "score": 0.9724, "translate": "펭귄" },
+    { "label": "Sky", "score": 0.9556, "translate": "하늘" },
+    { "label": "Bird", "score": 0.9505, "translate": "새" },
+    {
+      "label": "Natural environment",
+      "score": 0.8887,
+      "translate": "자연 환 경"
+    },
+    { "label": "adÃ©lie penguin", "score": 0.8615, "translate": "아델리 펭귄" },
+    { "label": "Travel", "score": 0.8289, "translate": "여행하다" },
+    {
+      "label": "Luggage and bags",
+      "score": 0.8208,
+      "translate": "수하물 및 가방"
+    },
+    { "label": "Mountain", "score": 0.818, "translate": "산" },
+    { "label": "Landscape", "score": 0.7842, "translate": "풍경" },
+    { "label": "Leisure", "score": 0.7802, "translate": "여가" },
+    {
+      "label": "Mountainous landforms",
+      "score": 0.7751,
+      "translate": "산악 지형"
+    },
+    { "label": "Fun", "score": 0.7551, "translate": "재미있는" },
+    { "label": "Beak", "score": 0.741, "translate": "부리" },
+    {
+      "label": "Flightless bird",
+      "score": 0.7292,
+      "translate": "날 수없는 새"
+    },
+    { "label": "Bag", "score": 0.7216, "translate": "가방" },
+    { "label": "Emperor penguin", "score": 0.6847, "translate": "황제펭귄" },
+    { "label": "Recreation", "score": 0.6838, "translate": "휴양" },
+    { "label": "Rock", "score": 0.673, "translate": "바위" },
+    { "label": "Human leg", "score": 0.6573, "translate": "인간의 다리" },
+    { "label": "Ice cap", "score": 0.6215, "translate": "아이스 캡" },
+    { "label": "Mountain range", "score": 0.6075, "translate": "산맥" },
+    { "label": "Sitting", "score": 0.5926, "translate": "좌석" },
+    { "label": "Tourism", "score": 0.5912, "translate": "관광 여행" },
+    { "label": "Ocean", "score": 0.5664, "translate": "대양" },
+    { "label": "Vacation", "score": 0.5503, "translate": "휴가" },
+    { "label": "Backpack", "score": 0.5332, "translate": "배낭" },
+    { "label": "Glacial landform", "score": 0.5331, "translate": "빙하 지형" },
+    { "label": "Sand", "score": 0.5182, "translate": "모래" },
+    { "label": "Adventure", "score": 0.5075, "translate": "모험" },
+    { "label": "Hill", "score": 0.5047, "translate": "언덕" }
+  ],
+  "object": [
+    {
+      "name": "Person",
+      "score": 0.8825,
+      "bbox": [
+        [0.3975, 0.185],
+        [0.9831, 0.185],
+        [0.9831, 0.9374],
+        [0.3975, 0.9374]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Person",
+      "score": 0.8112,
+      "bbox": [
+        [0.4278, 0.1903],
+        [0.9855, 0.1903],
+        [0.9855, 0.9317],
+        [0.4278, 0.9317]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Penguin",
+      "score": 0.7827,
+      "bbox": [
+        [0.4582, 0.291],
+        [0.5606, 0.291],
+        [0.5606, 0.491],
+        [0.4582, 0.491]
+      ],
+      "translate": "펭귄"
+    },
+    {
+      "name": "Backpack",
+      "score": 0.7806,
+      "bbox": [
+        [0.7877, 0.392],
+        [0.9963, 0.392],
+        [0.9963, 0.8483],
+        [0.7877, 0.8483]
+      ],
+      "translate": "배낭"
+    },
+    {
+      "name": "Bird",
+      "score": 0.6407,
+      "bbox": [
+        [0.2503, 0.268],
+        [0.3678, 0.268],
+        [0.3678, 0.4431],
+        [0.2503, 0.4431]
+      ],
+      "translate": "새"
+    },
+    {
+      "name": "Animal",
+      "score": 0.582,
+      "bbox": [
+        [0.343, 0.3087],
+        [0.4497, 0.3087],
+        [0.4497, 0.4924],
+        [0.343, 0.4924]
+      ],
+      "translate": "동물"
+    }
+  ]
+}

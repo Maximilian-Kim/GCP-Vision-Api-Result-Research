@@ -1,0 +1,141 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.9807, "translate": "음식" },
+    { "label": "Tableware", "score": 0.97, "translate": "식기" },
+    { "label": "Table", "score": 0.9504, "translate": "테이블" },
+    { "label": "Blue", "score": 0.9018, "translate": "푸른" },
+    { "label": "Chair", "score": 0.8647, "translate": "의자" },
+    { "label": "Tartan", "score": 0.8571, "translate": "격자 무늬 모직물" },
+    { "label": "Tablecloth", "score": 0.8404, "translate": "식탁보" },
+    { "label": "Plate", "score": 0.8399, "translate": "그릇" },
+    { "label": "Plant", "score": 0.8317, "translate": "식물" },
+    { "label": "Drinkware", "score": 0.8267, "translate": "음료 용기" },
+    { "label": "Dishware", "score": 0.82, "translate": "식기" },
+    { "label": "Bottle", "score": 0.8195, "translate": "병" },
+    { "label": "Wine glass", "score": 0.7712, "translate": "와인 잔" },
+    { "label": "Outdoor furniture", "score": 0.7661, "translate": "야외 가구" },
+    { "label": "Cuisine", "score": 0.7566, "translate": "요리" },
+    { "label": "Recreation", "score": 0.7544, "translate": "휴양" },
+    { "label": "Linens", "score": 0.7453, "translate": "리넨" },
+    { "label": "Event", "score": 0.732, "translate": "이벤트" },
+    { "label": "Serveware", "score": 0.7277, "translate": "서브웨어" },
+    { "label": "Plaid", "score": 0.7066, "translate": "격자 무늬" },
+    { "label": "Dish", "score": 0.697, "translate": "접시" },
+    { "label": "Bowl", "score": 0.6902, "translate": "그릇" },
+    { "label": "Outdoor table", "score": 0.6657, "translate": "야외 테이블" },
+    { "label": "Porcelain", "score": 0.6459, "translate": "도자기" },
+    { "label": "Finger food", "score": 0.644, "translate": "손가락 음식" },
+    { "label": "Ingredient", "score": 0.625, "translate": "재료" },
+    { "label": "Comfort food", "score": 0.6247, "translate": "컴포트 푸드" },
+    { "label": "Pattern", "score": 0.6126, "translate": "무늬" },
+    { "label": "Fast food", "score": 0.6118, "translate": "패스트 푸드" },
+    { "label": "Fork", "score": 0.6044, "translate": "포크" },
+    { "label": "Companion dog", "score": 0.6029, "translate": "반려견" },
+    { "label": "Spoon", "score": 0.6005, "translate": "숟가락" },
+    { "label": "Meal", "score": 0.6002, "translate": "식사" },
+    { "label": "Felidae", "score": 0.5925, "translate": "흰개미과" },
+    { "label": "Breakfast", "score": 0.5917, "translate": "아침" },
+    { "label": "Drink", "score": 0.5738, "translate": "마시다" },
+    { "label": "Lunch", "score": 0.5699, "translate": "점심" },
+    { "label": "Knife", "score": 0.5603, "translate": "칼" },
+    { "label": "Tail", "score": 0.5595, "translate": "꼬리" },
+    {
+      "label": "Home accessories",
+      "score": 0.5462,
+      "translate": "홈 액세서리"
+    },
+    { "label": "Toy", "score": 0.5404, "translate": "장난감" },
+    {
+      "label": "Small to medium-sized cats",
+      "score": 0.5394,
+      "translate": "중소형 고양이"
+    },
+    { "label": "Backyard", "score": 0.5308, "translate": "뒤뜰" },
+    { "label": "Brunch", "score": 0.5268, "translate": "브런치" },
+    { "label": "Leisure", "score": 0.5258, "translate": "여가" },
+    { "label": "Cup", "score": 0.525, "translate": "컵" },
+    { "label": "Picnic", "score": 0.5236, "translate": "피크닉" },
+    { "label": "Whiskers", "score": 0.5194, "translate": "구레나룻" },
+    { "label": "Wine bottle", "score": 0.5058, "translate": "와인 병" },
+    { "label": "Supper", "score": 0.5044, "translate": "저녁" }
+  ],
+  "object": [
+    {
+      "name": "Food",
+      "score": 0.7323,
+      "bbox": [
+        [0.5052, 0.5905],
+        [0.9347, 0.5905],
+        [0.9347, 0.7803],
+        [0.5052, 0.7803]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.7183,
+      "bbox": [
+        [0.3072, 0.7177],
+        [0.5591, 0.7177],
+        [0.5591, 0.9563],
+        [0.3072, 0.9563]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.6881,
+      "bbox": [
+        [0.1967, 0.7059],
+        [0.3754, 0.7059],
+        [0.3754, 0.8368],
+        [0.1967, 0.8368]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.641,
+      "bbox": [
+        [0.4955, 0.9391],
+        [0.7315, 0.9391],
+        [0.7315, 0.9966],
+        [0.4955, 0.9966]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Animal",
+      "score": 0.5971,
+      "bbox": [
+        [0.0798, 0.2583],
+        [0.4472, 0.2583],
+        [0.4472, 0.7299],
+        [0.0798, 0.7299]
+      ],
+      "translate": "동물"
+    },
+    {
+      "name": "Food",
+      "score": 0.5604,
+      "bbox": [
+        [0.7203, 0.8248],
+        [0.9974, 0.8248],
+        [0.9974, 0.9829],
+        [0.7203, 0.9829]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Tableware",
+      "score": 0.5502,
+      "bbox": [
+        [0.1854, 0.6932],
+        [0.4116, 0.6932],
+        [0.4116, 0.854],
+        [0.1854, 0.854]
+      ],
+      "translate": "식기"
+    }
+  ]
+}

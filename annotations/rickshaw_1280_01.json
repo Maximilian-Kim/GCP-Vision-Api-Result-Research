@@ -1,0 +1,193 @@
+{
+  "label": [
+    { "label": "Tire", "score": 0.9831, "translate": "타이어" },
+    { "label": "Wheel", "score": 0.9816, "translate": "바퀴" },
+    { "label": "Vehicle", "score": 0.9606, "translate": "차량" },
+    { "label": "Sky", "score": 0.9302, "translate": "하늘" },
+    { "label": "Motor vehicle", "score": 0.9141, "translate": "자동차" },
+    {
+      "label": "Automotive tire",
+      "score": 0.9024,
+      "translate": "자동차 타이어"
+    },
+    { "label": "Asphalt", "score": 0.8761, "translate": "아스팔트" },
+    { "label": "Car", "score": 0.865, "translate": "자동차" },
+    { "label": "Mode of transport", "score": 0.8476, "translate": "운송 수단" },
+    { "label": "Travel", "score": 0.8299, "translate": "여행하다" },
+    { "label": "Rickshaw", "score": 0.8251, "translate": "인력거" },
+    { "label": "Headgear", "score": 0.8141, "translate": "머리 장식" },
+    { "label": "Thoroughfare", "score": 0.8058, "translate": "도로" },
+    { "label": "Motorcycle", "score": 0.8048, "translate": "오토바이" },
+    { "label": "Road", "score": 0.7927, "translate": "도로" },
+    {
+      "label": "Automotive exterior",
+      "score": 0.7903,
+      "translate": "자동차 외장"
+    },
+    { "label": "Motorcycling", "score": 0.7737, "translate": "오토바이 타기" },
+    {
+      "label": "Automotive wheel system",
+      "score": 0.7572,
+      "translate": "자동차 휠 시스템"
+    },
+    {
+      "label": "Automotive lighting",
+      "score": 0.7543,
+      "translate": "자동차 조명"
+    },
+    { "label": "Helmet", "score": 0.7338, "translate": "헬멧" },
+    { "label": "Auto part", "score": 0.7227, "translate": "자동차 부품" },
+    { "label": "Street", "score": 0.6709, "translate": "거리" },
+    { "label": "Traffic", "score": 0.6544, "translate": "교통" },
+    {
+      "label": "Commercial vehicle",
+      "score": 0.6516,
+      "translate": "상업용 차량"
+    },
+    { "label": "Tree", "score": 0.646, "translate": "나무" },
+    {
+      "label": "Personal protective equipment",
+      "score": 0.6293,
+      "translate": "개인 보호 장비"
+    },
+    { "label": "Tourism", "score": 0.6236, "translate": "관광 여행" },
+    { "label": "Classic", "score": 0.6188, "translate": "권위 있는" },
+    { "label": "Pedestrian", "score": 0.6016, "translate": "보행자" },
+    { "label": "Rolling", "score": 0.6004, "translate": "구르는" },
+    {
+      "label": "Light commercial vehicle",
+      "score": 0.5974,
+      "translate": "경 상용차"
+    },
+    {
+      "label": "Automotive design",
+      "score": 0.5867,
+      "translate": "자동차 디자인"
+    },
+    { "label": "Lane", "score": 0.5796, "translate": "레인" },
+    { "label": "Public utility", "score": 0.5786, "translate": "공공" },
+    { "label": "Passenger", "score": 0.5719, "translate": "승객" },
+    {
+      "label": "Traffic congestion",
+      "score": 0.5549,
+      "translate": "교통 혼잡"
+    },
+    { "label": "Transport", "score": 0.5477, "translate": "수송" },
+    { "label": "Scooter", "score": 0.5426, "translate": "스쿠터" },
+    { "label": "Road surface", "score": 0.5371, "translate": "도로 표면" },
+    { "label": "Cycling", "score": 0.5317, "translate": "사이클링" },
+    { "label": "Public transport", "score": 0.5087, "translate": "대중 교통" }
+  ],
+  "object": [
+    {
+      "name": "Person",
+      "score": 0.9192,
+      "bbox": [
+        [0.0333, 0.3367],
+        [0.0984, 0.3367],
+        [0.0984, 0.5768],
+        [0.0333, 0.5768]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Person",
+      "score": 0.8802,
+      "bbox": [
+        [0.4821, 0.3032],
+        [0.5884, 0.3032],
+        [0.5884, 0.8299],
+        [0.4821, 0.8299]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Wheel",
+      "score": 0.8515,
+      "bbox": [
+        [0.323, 0.8011],
+        [0.3847, 0.8011],
+        [0.3847, 0.9721],
+        [0.323, 0.9721]
+      ],
+      "translate": "바퀴"
+    },
+    {
+      "name": "Person",
+      "score": 0.8386,
+      "bbox": [
+        [0.4988, 0.126],
+        [0.672, 0.126],
+        [0.672, 0.8316],
+        [0.4988, 0.8316]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Person",
+      "score": 0.8103,
+      "bbox": [
+        [0.6688, 0.2969],
+        [0.7347, 0.2969],
+        [0.7347, 0.5528],
+        [0.6688, 0.5528]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Person",
+      "score": 0.8006,
+      "bbox": [
+        [0.2857, 0.3823],
+        [0.4385, 0.3823],
+        [0.4385, 0.491],
+        [0.2857, 0.491]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Person",
+      "score": 0.7465,
+      "bbox": [
+        [0.4871, 0.1582],
+        [0.6553, 0.1582],
+        [0.6553, 0.5661],
+        [0.4871, 0.5661]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Person",
+      "score": 0.627,
+      "bbox": [
+        [0.2306, 0.3808],
+        [0.3448, 0.3808],
+        [0.3448, 0.4983],
+        [0.2306, 0.4983]
+      ],
+      "translate": "사람"
+    },
+    {
+      "name": "Bus",
+      "score": 0.6223,
+      "bbox": [
+        [0.0063, 0.1774],
+        [0.1828, 0.1774],
+        [0.1828, 0.5132],
+        [0.0063, 0.5132]
+      ],
+      "translate": "버스"
+    },
+    {
+      "name": "Person",
+      "score": 0.5983,
+      "bbox": [
+        [0.1891, 0.3708],
+        [0.2534, 0.3708],
+        [0.2534, 0.6],
+        [0.1891, 0.6]
+      ],
+      "translate": "사람"
+    }
+  ]
+}

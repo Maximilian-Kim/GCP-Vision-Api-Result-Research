@@ -1,0 +1,142 @@
+{
+  "label": [
+    { "label": "Tableware", "score": 0.9616, "translate": "식기" },
+    { "label": "Stemware", "score": 0.9524, "translate": "스템웨어" },
+    { "label": "Drinkware", "score": 0.9498, "translate": "음료 용기" },
+    { "label": "Plant", "score": 0.932, "translate": "식물" },
+    { "label": "Wine", "score": 0.9181, "translate": "와인" },
+    { "label": "Wine glass", "score": 0.9063, "translate": "와인 잔" },
+    { "label": "Barware", "score": 0.884, "translate": "바웨어" },
+    { "label": "Glass bottle", "score": 0.8576, "translate": "유리 병" },
+    { "label": "Drink", "score": 0.8507, "translate": "마시다" },
+    { "label": "Dessert wine", "score": 0.8436, "translate": "디저트 와인" },
+    {
+      "label": "Alcoholic beverage",
+      "score": 0.8412,
+      "translate": "알코올 음료"
+    },
+    { "label": "Champagne stemware", "score": 0.824, "translate": "샴페인 잔" },
+    { "label": "Food", "score": 0.8155, "translate": "음식" },
+    { "label": "White wine", "score": 0.7999, "translate": "백포도주" },
+    { "label": "Wine bottle", "score": 0.7993, "translate": "와인 병" },
+    { "label": "Wood", "score": 0.794, "translate": "목재" },
+    { "label": "Natural foods", "score": 0.7794, "translate": "자연 식품" },
+    { "label": "Alcohol", "score": 0.7791, "translate": "술" },
+    { "label": "Grass", "score": 0.764, "translate": "잔디" },
+    { "label": "Leaf vegetable", "score": 0.7614, "translate": "잎채소" },
+    { "label": "Serveware", "score": 0.7614, "translate": "서브웨어" },
+    { "label": "Dishware", "score": 0.7355, "translate": "식기" },
+    { "label": "Glass", "score": 0.7334, "translate": "유리" },
+    { "label": "Distilled beverage", "score": 0.7192, "translate": "증류수" },
+    { "label": "Plate", "score": 0.7128, "translate": "그릇" },
+    { "label": "Red wine", "score": 0.7098, "translate": "적포도주" },
+    { "label": "Event", "score": 0.7047, "translate": "이벤트" },
+    { "label": "Wine tasting", "score": 0.6882, "translate": "와인 시음" },
+    { "label": "Barrel", "score": 0.6842, "translate": "통" },
+    { "label": "Grape", "score": 0.6677, "translate": "포도" },
+    { "label": "Snifter", "score": 0.6503, "translate": "브랜디 술잔" },
+    { "label": "Fruit", "score": 0.6492, "translate": "과일" },
+    { "label": "Liqueur", "score": 0.6471, "translate": "리큐어" },
+    { "label": "Produce", "score": 0.6384, "translate": "생산하다" },
+    { "label": "Hardwood", "score": 0.6247, "translate": "견목" },
+    { "label": "Superfood", "score": 0.6156, "translate": "슈퍼푸드" },
+    { "label": "Ingredient", "score": 0.61, "translate": "재료" },
+    { "label": "Still life", "score": 0.6079, "translate": "정물" },
+    {
+      "label": "Still life photography",
+      "score": 0.5989,
+      "translate": "정물 사진"
+    },
+    { "label": "Table", "score": 0.5981, "translate": "테이블" },
+    { "label": "Champagne", "score": 0.5844, "translate": "샴페인" },
+    {
+      "label": "Grapevine family",
+      "score": 0.5805,
+      "translate": "그레이프바인 가족"
+    },
+    { "label": "Seedless fruit", "score": 0.5774, "translate": "씨 없는 과일" },
+    { "label": "Recipe", "score": 0.5736, "translate": "레시피" },
+    { "label": "Vitis", "score": 0.55, "translate": "비티스" },
+    { "label": "Herb", "score": 0.5476, "translate": "목초" },
+    { "label": "À la carte food", "score": 0.5197, "translate": "일품요리" }
+  ],
+  "object": [
+    {
+      "name": "Wine glass",
+      "score": 0.8413,
+      "bbox": [
+        [0.3914, 0.1764],
+        [0.6064, 0.1764],
+        [0.6064, 0.9686],
+        [0.3914, 0.9686]
+      ],
+      "translate": "와인 잔"
+    },
+    {
+      "name": "Barrel",
+      "score": 0.7736,
+      "bbox": [
+        [0.6002, 0],
+        [0.9954, 0],
+        [0.9954, 0.4579],
+        [0.6002, 0.4579]
+      ],
+      "translate": "통"
+    },
+    {
+      "name": "Wine bottle",
+      "score": 0.7547,
+      "bbox": [
+        [0.4784, 0],
+        [0.6578, 0],
+        [0.6578, 0.308],
+        [0.4784, 0.308]
+      ],
+      "translate": "와인 병"
+    },
+    {
+      "name": "Grape",
+      "score": 0.7209,
+      "bbox": [
+        [0.1075, 0.2803],
+        [0.4287, 0.2803],
+        [0.4287, 0.7459],
+        [0.1075, 0.7459]
+      ],
+      "translate": "포도"
+    },
+    {
+      "name": "Wine bottle",
+      "score": 0.5982,
+      "bbox": [
+        [0.3281, 0.0037],
+        [0.5182, 0.0037],
+        [0.5182, 0.366],
+        [0.3281, 0.366]
+      ],
+      "translate": "와인 병"
+    },
+    {
+      "name": "Drink",
+      "score": 0.5665,
+      "bbox": [
+        [0.5453, 0.0733],
+        [0.7359, 0.0733],
+        [0.7359, 0.8102],
+        [0.5453, 0.8102]
+      ],
+      "translate": "마시다"
+    },
+    {
+      "name": "Bottle",
+      "score": 0.51,
+      "bbox": [
+        [0.315, 0],
+        [0.5054, 0],
+        [0.5054, 0.3318],
+        [0.315, 0.3318]
+      ],
+      "translate": "병"
+    }
+  ]
+}

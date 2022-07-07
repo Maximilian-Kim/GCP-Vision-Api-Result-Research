@@ -1,0 +1,66 @@
+{
+  "label": [
+    { "label": "Food", "score": 0.9795, "translate": "음식" },
+    { "label": "Ingredient", "score": 0.9108, "translate": "재료" },
+    { "label": "Plant", "score": 0.9034, "translate": "식물" },
+    { "label": "Fruit", "score": 0.8853, "translate": "과일" },
+    { "label": "Recipe", "score": 0.8792, "translate": "레시피" },
+    { "label": "Staple food", "score": 0.8685, "translate": "상식" },
+    { "label": "Natural foods", "score": 0.8683, "translate": "자연 식품" },
+    { "label": "Cuisine", "score": 0.85, "translate": "요리" },
+    { "label": "Dish", "score": 0.8493, "translate": "접시" },
+    { "label": "Salad", "score": 0.8358, "translate": "샐러드" },
+    { "label": "Strawberries", "score": 0.809, "translate": "딸기" },
+    { "label": "Produce", "score": 0.7923, "translate": "생산하다" },
+    { "label": "Fruit salad", "score": 0.7917, "translate": "과일 샐러드" },
+    { "label": "Vegetable", "score": 0.7902, "translate": "채소" },
+    { "label": "Hardy kiwi", "score": 0.7847, "translate": "하디 키위" },
+    { "label": "Superfood", "score": 0.756, "translate": "슈퍼푸드" },
+    { "label": "Food group", "score": 0.7305, "translate": "식품군" },
+    { "label": "Sharing", "score": 0.7111, "translate": "나누는" },
+    { "label": "Strawberry", "score": 0.7012, "translate": "딸기" },
+    { "label": "Garnish", "score": 0.6998, "translate": "고명" },
+    { "label": "Tableware", "score": 0.696, "translate": "식기" },
+    { "label": "Bowl", "score": 0.6847, "translate": "그릇" },
+    { "label": "Vegan nutrition", "score": 0.6657, "translate": "비건 영양" },
+    { "label": "Platter", "score": 0.6586, "translate": "플래터" },
+    { "label": "Fruit cup", "score": 0.6518, "translate": "과일 컵" },
+    { "label": "Leaf vegetable", "score": 0.6446, "translate": "잎채소" },
+    { "label": "Whole food", "score": 0.6346, "translate": "전체 식품" },
+    { "label": "Finger food", "score": 0.5681, "translate": "손가락 음식" },
+    { "label": "Local food", "score": 0.5468, "translate": "현지 음식" },
+    {
+      "label": "Nightshade family",
+      "score": 0.541,
+      "translate": "밤나무 가족"
+    },
+    { "label": "Meal", "score": 0.5314, "translate": "식사" },
+    { "label": "Lunch", "score": 0.5274, "translate": "점심" },
+    { "label": "Japanese cuisine", "score": 0.5183, "translate": "일본 요리" },
+    { "label": "Junk food", "score": 0.5167, "translate": "패스트 푸드" }
+  ],
+  "object": [
+    {
+      "name": "Food",
+      "score": 0.7268,
+      "bbox": [
+        [0.5138, 0.0249],
+        [0.9468, 0.0249],
+        [0.9468, 0.8047],
+        [0.5138, 0.8047]
+      ],
+      "translate": "음식"
+    },
+    {
+      "name": "Food",
+      "score": 0.72,
+      "bbox": [
+        [0.0389, 0.0331],
+        [0.4786, 0.0331],
+        [0.4786, 0.8594],
+        [0.0389, 0.8594]
+      ],
+      "translate": "음식"
+    }
+  ]
+}
